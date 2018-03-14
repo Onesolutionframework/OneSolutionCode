@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="90334" started-at="2017-05-12T12:49:52Z" finished-at="2017-05-12T12:51:23Z">
+    <groups>
+    </groups>
+    <test name="automation-testing" duration-ms="90334" started-at="2017-05-12T12:49:52Z" finished-at="2017-05-12T12:51:23Z">
+      <class name="com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest@6be46e8f]" name="setup" is-config="true" duration-ms="88090" started-at="2017-05-12T18:19:52Z" finished-at="2017-05-12T18:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="performTestsOnSupportedBrowsers(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest@6be46e8f]" name="performTestsOnSupportedBrowsers" duration-ms="182" started-at="2017-05-12T18:21:21Z" data-provider="SupportedBrowsers" finished-at="2017-05-12T18:21:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTestsOnSupportedBrowsers -->
+        <test-method status="PASS" signature="performTestsOnSupportedBrowsers(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest@6be46e8f]" name="performTestsOnSupportedBrowsers" duration-ms="175" started-at="2017-05-12T18:21:21Z" data-provider="SupportedBrowsers" finished-at="2017-05-12T18:21:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTestsOnSupportedBrowsers -->
+        <test-method status="PASS" signature="performTestsOnSupportedBrowsers(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest@6be46e8f]" name="performTestsOnSupportedBrowsers" duration-ms="661" started-at="2017-05-12T18:21:21Z" data-provider="SupportedBrowsers" finished-at="2017-05-12T18:21:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTestsOnSupportedBrowsers -->
+        <test-method status="PASS" signature="performTestsOnSupportedBrowsers(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest@6be46e8f]" name="performTestsOnSupportedBrowsers" duration-ms="673" started-at="2017-05-12T18:21:21Z" data-provider="SupportedBrowsers" finished-at="2017-05-12T18:21:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X 10.11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTestsOnSupportedBrowsers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest@6be46e8f]" name="tearDown" is-config="true" duration-ms="1483" started-at="2017-05-12T18:21:21Z" finished-at="2017-05-12T18:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mcclatchyinteractive.servicenow.tests.SimpleTest -->
+    </test> <!-- automation-testing -->
+  </suite> <!-- Default Suite -->
+</testng-results>

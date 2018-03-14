@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Main Test Suite" verbose="2">
+
+    <test name="TestNG Test Group">
+        <classes>
+            <class name="com.servicenow.tests.CreateNewKBArticleFromKnowledgeModuleTest"/>
+            <class name="com.servicenow.tests.CreateNewKBArticleFromIncidentTest"/>
+            <class name="com.servicenow.tests.CreateNewKBArticleFromChangeTest"/>
+            <class name="com.servicenow.tests.Source_Field_Update_When_KB_Is_Created_From_Incident"/>
+            <class name="com.servicenow.tests.Source_Field_Update_When_KB_Is_Created_From_Task_Test"/>
+            <class name="com.servicenow.tests.TC_10_08_KM_Owner_Role_created_in_Knowledge_Management"/>
+        </classes>
+    </test>
+</suite>

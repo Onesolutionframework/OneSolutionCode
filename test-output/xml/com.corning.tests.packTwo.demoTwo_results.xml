@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG Test Group"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.001">
+  <properties />
+  
+  
+            <testcase name="secondTestCase" time="0.001" classname="com.servicenow.zProgress.packTwo.demoTwo" />
+                <testcase name="firstTestCase" time="0.000" classname="com.servicenow.zProgress.packTwo.demoTwo" />
+      
+</testsuite>

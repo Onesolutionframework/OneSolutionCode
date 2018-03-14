@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FrontEnd Suite]">
+  <listeners>
+    <listener class-name="com.servicenow.utilities.TestReport"/>
+  </listeners>
+  <test name="FrontEnd Tests(failed)">
+    <classes>
+      <class name="com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="performTestsOnSupportedBrowsers" invocation-numbers="0 2 3 1"/>
+        </methods>
+      </class> <!-- com.mcclatchyinteractive.servicenow.tests.SimpleTest -->
+    </classes>
+  </test> <!-- FrontEnd Tests(failed) -->
+</suite> <!-- Failed suite [FrontEnd Suite] -->
