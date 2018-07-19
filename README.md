@@ -32,6 +32,18 @@ This Prerequisite requires the following:
   - Selenium and TestNG configured
   - POM dependencies
 
+<a name="components"></a>
+## Key Components ##
+
+  - Batch test runner
+  - Environment setup
+  - Data Driven support
+  - Object repository
+  - Validations
+  - Extent reporting
+  - Utilities
+  - Logs
+
 <a name="approach"></a>
 ## Automation Framework ##
 ![framework diagram](https://user-images.githubusercontent.com/41419116/42936143-f9202290-8b68-11e8-9e8f-0e0cf0d1f847.png)
@@ -111,14 +123,3 @@ AutoCodeBase
 │   │   Report.html
 _ _ _ _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ```
-<a name="components"></a>
-## Key Components ##
-
-  - Batch test runner
-  - Environment setup
-  - Data Driven support
-  - Object repository
-  - Validations
-  - Extent reporting
-  - Utilities
-  - Logs
