@@ -1,281 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29b8c326-38b0-401a-aa3a-28e2276cbd98" name="Default" comment="good changes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f0322d836af5c819241368741c4f1a28af20fef" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18412aaa6ad392b1a754d8518f5d871729bcdfac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21a42e6b8c690da8ee2e915ca4fc3c8ec852e25e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a94aec9aa0eebc17994f378b8556dda291ccea2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c1b49925db3e647d0db31d6ebcc5edc7da92590" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ccf46f5f2cc707444b0e0125513ea6e5de288f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eea48fd0490553f5a89195611c1d97448389f1d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3666c78cb5e4c7f8481cd243dd470a1dd0ea7930" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d0d07f0cbbc691209c5be36dc5436c944a00c63" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d6bfad034bf5fa0ea03088ace5b8baa81772064" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dbff364cc148e19b76ba88904e9d565f1bac6c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fb1f0496d6050dd1d99737bdddd68c01eb67bda" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fbd45a637683d3ce2e14537aae5d86538cc2fc0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fbd965fdb7c83e65958c7477944505ba7148c7f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/437762b96d33690c266dbc80b4dc39a1dfacd25f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43a6f4c92ba693c35f5bd88b61d76d2cb3f89894" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4771cb0d92bdc518cb9411ee8c079e8f2cc628c5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bb17b1a5699d609f6eae1c3773718c370583820" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f1c780a43fae94569f34ad79c5a739c0ffd9ef1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f8255424c39a8ec5ac7507806721a814b526a33" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53b05b44077ece9abae14abc49bc0e061d1b85ba" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ed67800b1fcfe862050c6b67484e25833d8140d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/630b9cd346d8e9300fe556787297637b03e0033d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e7bc3bbae568b3f574f269f3755a64c584d55fa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7097ec3a5185ee6ac4acfdc815ac0ecc28af4a67" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/715c215637451fbd0047b63037b8dabb33e1f343" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7330e4252652b61093498eabc26c3cadee5d89b7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/755950bb690295904a49d36e60958901c54013b8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/792b086aeb9d6601683fb0b1efd12a732746547a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b5644ed70ceec2efd140d4a174cf44519a10fe6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81d8d5ae0c0986155c67abe477d417094c287843" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b4499b978ef4487c81c5cc2de5e65b84d775fae" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9470c8c06adf265824092c6ffa0c5fd5aa25fbdd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98676529083d14c8103332f41ed491422e81aa4e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b903e6a738be1f9d3f04da22b646ba961f148a0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9cbb5e07ae50482d833753a6fd8d67e313e169e6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6ff21c975f385e18c31d607df676c94c5d21a5a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4d2b562f211f504899cf289a4a54a57337fa8f4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc629cba11910e09ef5f8a7bd9bb4e4e590f8f99" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf6adc35bcf30131cc566bd6c10618df86e30d0a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2e968a7aff9b74d10f044637f70a5f18d2b2f0f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c399f5fc39cc56a502fd8341efdb1b54e5358e3d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5137a068a57bcbb28c0c8ebc69fe8cb375a5ec7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd6373cfb7d85fb93b685045b27942cfbf42ed61" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce02f4b6e0e62450aced263a9d7a34d1d6c86a49" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfce2a4c248c85b1e2e5341c40f247a0866eb48d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcffa996293f0c9d8fbd5c3d90c33eefa7e740ce" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea23925f4938356146c693cf2e35853ca07e9177" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec88632d1fac23475fab54ccba4db0c16edc1e74" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f32b1e52467f8c4086d7b2fc6882043ccc49719c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8a9372357c316f888605f22473a16604c3c2bc1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f912dfdd804e2011fd827a0ca99c3815764c184c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fccb773334c9f3baab574f6ac1577a6e1c26e9ad" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_12_v20130726.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_37_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_37_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_48_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_48_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_37_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_48_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_48_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_48_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_37_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_48_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_37_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/Bot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/Browser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/BrowserFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowserFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumGridBrowserFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebProperty.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/MyLoginPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproHome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproLogout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproSearchApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/NewTab.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/Windows.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/WiproTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/BasePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/AgroLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/FuncLib1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/JSE1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/PropertiesUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReportMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReporterNG.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/Repository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/web.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Default Suite/Default test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Default Suite/Default test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.servicenow.tests.CreateNewKBArticleFromChangeTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/Default test.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_5_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_5_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/BasePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/AllureAttachments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/AllureListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/AppliTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/BrowserFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Configuration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/CookieHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/CreateKnowledgeArticle1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/DBUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Environment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/HttpRequestResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/JSONutils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/JavaScript.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/MainMenuPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/PackOne/demoOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/PropertyFileRead.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Select.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/TestReport.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Testing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Title.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/packTwo/demoTwo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/verify/Assert.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/verify/Comparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/BasePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/BrowserStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/BrowserStackDataProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Configuration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/CookieHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/CreateKnowledgeArticle1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/DBUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Environment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/HttpRequestResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/JSONutils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/JavaScript.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/MainMenuPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/PackOne/demoOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/PropertyFileRead.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Select.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/TestReport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Testing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Title.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/packTwo/demoTwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/verify/Comparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testng11.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/base/PageInitialize.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/base/PageInitialize.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/CreateKnowledgeArticle.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/pages/CreateKnowledgeArticle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/Login.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/pages/Login.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/WebPage.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/pages/WebPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromChangeTest.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromChangeTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable$1.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExcelUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExcelUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExceptionHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExceptionHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$1.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$2.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/IActions.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/IActions.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/JSE.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/JSE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/Report.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/Report.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$1.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$10.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$2.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$3.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$4.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$5.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$6.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$7.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$8.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$9.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebDriverProvider.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebDriverProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebTable.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebTable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="29b8c326-38b0-401a-aa3a-28e2276cbd98" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestData/~$Reg.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/Default Suite/Default test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/Default Suite/Default test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/Default Suite/automation-testing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/Default Suite/automation-testing.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/ExtentReportTestNG.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/FrontEnd Suite/FrontEnd Tests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/FrontEnd Suite/FrontEnd Tests.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/FrontEnd Suite/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/reportng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/reportng.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/sorttable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/html/suites.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.mcclatchyinteractive.escenicfrontend.tests.SimpleTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.servicenow.tests.CreateNewKBArticleFromChangeTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/Default test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/automation-testing.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/xml/com.corning.tests.CreateNewKBArticleFromIncidentTest_results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/xml/com.corning.tests.PackOne.demoOne_results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/xml/com.corning.tests.packTwo.demoTwo_results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/xml/com.servicenow.tests.CreateNewKBArticleFromChangeTest_results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/xml/com.servicenow.tests.CreateNewKBArticleFromKnowledgeModuleTest_results.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SeleniumFramework.iml" afterPath="$PROJECT_DIR$/SeleniumFramework.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestReport/Report.html" afterPath="$PROJECT_DIR$/TestReport/Report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java" afterPath="$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/CreateKnowledgeArticle.java" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/CreateKnowledgeArticle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/Login.java" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/WebPage.java" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WebPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.java" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/ExcelUtils.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/ExcelUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/Report.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/Report.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/WebTable.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/WebTable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/automation-testing.properties" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/automation-testing.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties" afterPath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserStack.java" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/BrowserStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserStackDataProvider.java" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/BrowserStackDataProvider.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/servicenow/browser/Bot.java" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/Bot.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -286,7 +77,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="debug.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/debug.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -913,6 +735,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507347817987</updated>
     </task>
+    <task id="LOCAL-00001" summary="good changes">
+      <created>1531989613630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531989613630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -922,8 +752,8 @@
     <history-entry file="WiproTest - 2018.07.19 at 14h 07m 34s.xml">
       <configuration name="WiproTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="WiproTest_(1) - 2018.07.19 at 11h 59m 38s.xml">
-      <configuration name="WiproTest (1)" configurationId="TestNG" />
+    <history-entry file="WiproTest - 2018.07.19 at 14h 46m 58s.xml">
+      <configuration name="WiproTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="WiproTest_(1) - 2018.07.19 at 14h 04m 47s.xml">
       <configuration name="WiproTest (1)" configurationId="TestNG" />
@@ -961,15 +791,15 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.4879154" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.4879154" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5120846" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3622951" sideWeight="0.36933535" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19335347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3622951" sideWeight="0.6344411" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3622951" sideWeight="0.63066465" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18852459" sideWeight="0.49093655" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4737705" sideWeight="0.4879154" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34441087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1088,56 +918,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/BrowserThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/FuncLib1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReporterNG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReportMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1516,10 +1296,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="96" lean-forward="false" selection-start-line="0" selection-start-column="96" selection-end-line="0" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/WiproTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <marker date="1531989383279" expanded="false" signature="3480:3486" ph="val" />
             <marker date="1531989383279" expanded="false" signature="3513:3534" ph="shortDescription" />
@@ -1537,7 +1333,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/Bot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#101437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/browser/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/browser/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1545,10 +1367,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html">
+    <entry file="file://$PROJECT_DIR$/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="96" lean-forward="false" selection-start-line="0" selection-start-column="96" selection-end-line="0" selection-end-column="96" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
