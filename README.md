@@ -9,9 +9,7 @@
 * [Automation Framework Approach](#approach)
 * [Framework Highlights](#highlights)
 * [Folder Structre](#structure)
-* [Troubleshooting](#troubleshooting)
 * [Questions and comments](#questions)
-* [Additional resources](#additional-resources)
 
 <a name="summary"></a>
 ## Summary ##
