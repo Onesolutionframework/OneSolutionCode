@@ -15,7 +15,7 @@
 
 <a name="summary"></a>
 ## Summary ##
-A hybrid framework for selenium based automation.
+A hybrid framework for selenium automation.
 
 This framework comes with various features to Batch run, to provide test data from excel files, to generate screenshots, to generate reports in html format and to validate expected result with actual result
 
@@ -26,7 +26,7 @@ Who works on selenium based automation testing and want to jump start the automa
 <a name="prerequisites"></a>
 ## Prerequisites ##
 
-This Prerequisite requires the following:
+Prerequisite requires the following:
 
   - Selenium expertise.
   - Selenium and TestNG configured
