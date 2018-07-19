@@ -5,7 +5,7 @@
 * [Summary](#summary)
 * [Intended Audience](#audience)
 * [Prerequisites](#prerequisites)
-* [Key components](#components)
+* [Key Components](#components)
 * [Automation Framework Approach](#approach)
 * [Framework Highlights](#highlights)
 * [Folder Structre](#structure)
