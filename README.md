@@ -76,13 +76,8 @@ AutoCodeBase
 │   pom.xml
 │
 └───ObjectRepo
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+│   │   LocatorsRepo.xlsx
+│   │   Locators.properties
 │
 └───Screenshots
 │   │
@@ -103,21 +98,17 @@ AutoCodeBase
 |   │   └───utilities
 |   │   │
 |   │   └───zEnhancements
-|   │   │
-|   │   └───base
-|   │   │
-|   │   └───base
 │   │
 │   └───com.resources
-│       │   chromedriver.exe
-│       │   extent-config.xml
-│       │   web.config
-│
+│       │
+│       └───chromedriver.exe
+│       │
+│       └───extent-config.xml
+│       │
+│       └───web.config
 │
 └───TestData
-│   │   file1.xlsx
-│   │   file2.xlsx
-│
+│   │   Regression.xlsx
 │
 └───TestReport
 │   │   Report.html
