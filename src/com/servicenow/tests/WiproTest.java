@@ -37,7 +37,7 @@ public class WiproTest extends PageInitialize {
     public void CreateKnowledgeArticle(){
         try {
             //************************Data Section***********************************************************
-            String dFile="E:\\MuniBala\\BaseCode - Copy (2)\\automation-testing\\frontend\\TestData\\Regression.xlsx";
+            String dFile=System.getProperty("user.dir") + "/TestData/Regression.xlsx";
             String dSh="CreateKnowledgeArticle";
             DataTable DataMgr = new DataTable(dFile,dSh,dSh);
             int iRowNo = 3;
