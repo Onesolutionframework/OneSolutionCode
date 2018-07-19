@@ -13,10 +13,10 @@ public class Login extends FuncLib {
     }
 
     public static String sTestDataFile = System.getProperty("user.dir") + "\\ObjectRepo\\LocatorsRepo.xlsx";
-    public static DataTable DataRead = new DataTable(sTestDataFile, "Locators","Login");;
+    public static DataTable DataRead = new DataTable(sTestDataFile, "Locators","Login");
     public static TreeMap<String, String> ObjMap = DataRead.readObjects();
-    public static String UserName= ObjMap.get("UserName");;
-    public static String Password= ObjMap.get("Password");;
+    public static String UserName= ObjMap.get("UserName");
+    public static String Password= ObjMap.get("Password");
     public static String Login= ObjMap.get("Login");
 
 

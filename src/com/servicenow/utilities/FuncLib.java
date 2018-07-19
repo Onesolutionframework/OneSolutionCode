@@ -1,7 +1,5 @@
 package com.servicenow.utilities;
 
-
-
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
@@ -12,15 +10,14 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.servicenow.pages.BasePage;
-
+import static com.servicenow.browser.SeleniumBrowser.driver;
+/**
+ * Created by Muni on 5/4/17.
+ */
 public class FuncLib extends BasePage {
-	
 	public FuncLib(WebDriver inputDriver) {
 		super(inputDriver);
-		
 	}
-	public static int DEFAULT_WAIT_4_PAGE=160;
 
 	public  static void launch(String URL) throws ExceptionHandler {
 		try {
@@ -29,51 +26,43 @@ public class FuncLib extends BasePage {
 		}catch(Exception ex){
 			throw new ExceptionHandler(ex);
 		}
-
 	}
 	
 	private static boolean mouseHover(WebDriver driver, By by) {
 		try {			
 			return driver.findElement(by).isDisplayed();
-		} catch (NoSuchElementException e) {
+		}catch (NoSuchElementException e) {
 			return false;
 		}
 	}
 	
 	public static boolean performActionUntilAttributeChange(WebDriver driver, By sourceElement,By targetElement,String actionToPerformed,String attrib) throws InterruptedException{
-		
-		try {			
-		
+		try {
 			do
 			{
 				Report.log("done", "hover");
-				
 				WebElement ele1 = driver.findElement(sourceElement);
-				
 				String mouseOverScript = "if(document.createEvent){var evObj = document.createEvent('MouseEvents');evObj.initEvent('mouseover',	true, false); arguments[0].dispatchEvent(evObj);} else if(document.createEventObject) { arguments[0].fireEvent('onmouseover');}";
 				((JavascriptExecutor) driver).executeScript(mouseOverScript,ele1);
 				TimeUnit.SECONDS.sleep(5);
 			}while(driver.findElement(targetElement).isDisplayed()!=false);
-			
-			
-		} catch (NoSuchElementException e) {
+		}catch (NoSuchElementException e) {
 			return false;
 		}
 		return false;
 	}
+
 	public static boolean ElementIsClickable(By by) {
 		WebDriverWait wait = new WebDriverWait(driver, 60); 
 		WebElement element = wait.until(ExpectedConditions.elementToBeClickable(by));
-		if(element!=null)
-			return true;
-		else
-			return false;
+		return element != null;
 	}
-///$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-	public static void iClick(By by, String name){
+
+	///$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+	public static void iClick(By by, String sLabel){
 		String locator=by.toString();
 		try{
-
 			WebElement strTempElement=getWebElement(by);
 			if(strTempElement==null) {
 				return;
@@ -82,17 +71,15 @@ public class FuncLib extends BasePage {
 				((JavascriptExecutor)driver).executeScript("window.focus();");
 				((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", getWebElement(by));
 				getWebElement(by).click();
-				Report.log("pass", "Clicked on "+"'"+name+"'"+ " button");
-
+				Report.log("pass", "Clicked on "+"'"+sLabel+"'"+ " button");
 			}else{
-				Report.log("fail", "'"+name+"'" + " : Button is not enabled");
+				Report.log("fail", "'"+sLabel+"'" + " : Button is not enabled");
 			}
-
-			}catch(NoSuchElementException e){
-				Report.log("fail", locator + " : Button not found");
-			}catch(ElementNotVisibleException e){
-				Report.log("fail", locator + " : Button not visible");
-			}
+		}catch(NoSuchElementException e){
+			Report.log("fail", locator + " : Button not found");
+		}catch(ElementNotVisibleException e){
+			Report.log("fail", locator + " : Button not visible");
+		}
 	}
 
 	public static void iClick(String bys, String name) throws ExceptionHandler {
@@ -130,7 +117,6 @@ public class FuncLib extends BasePage {
 			}else{
 				System.out.println("'"+name+"'" + " : Button is not enabled");
 			}
-
 		}catch(NoSuchElementException e){
 			System.out.println(name + " : Button not found");
 		}catch(ElementNotVisibleException e){
@@ -141,32 +127,6 @@ public class FuncLib extends BasePage {
 	public static void iSendData(By by, String data,String name){
 		String locator=by.toString();
 		try{
-				if(getWebElement(by).isEnabled()){
-					((JavascriptExecutor)driver).executeScript("window.focus();");
-					getWebElement(by).sendKeys(data);
-					if(name.equalsIgnoreCase("Contrasena") || name.equalsIgnoreCase("password"))
-						data="*******";
-					Report.log("pass",data + " entered in "+"'"+name+"'"+ ".");
-				}else{
-					Report.log("fail","'"+name+"'" + " : edit field is not enabled");
-				}
-			}catch(NoSuchElementException e){
-				Report.log("fail",locator + " : Button not found");
-			}catch(ElementNotVisibleException e){
-				Report.log("fail",locator + " : Button not visible");
-
-			}catch(Exception e){
-				System.out.println(e.getMessage());
-				Report.log("fail","While entering data in " + name + " field, Error occurred: " +e.getMessage());
-			}
-
-	}
-
-	public static void iSendData(String bys, String data,String name){
-		By by = By.xpath(bys);
-		String locator=by.toString();
-		try{
-
 			if(getWebElement(by).isEnabled()){
 				((JavascriptExecutor)driver).executeScript("window.focus();");
 				getWebElement(by).sendKeys(data);
@@ -185,7 +145,30 @@ public class FuncLib extends BasePage {
 			System.out.println(e.getMessage());
 			Report.log("fail","While entering data in " + name + " field, Error occurred: " +e.getMessage());
 		}
+	}
 
+	public static void iSendData(String bys, String data,String name){
+		By by = By.xpath(bys);
+		String locator=by.toString();
+		try{
+			if(getWebElement(by).isEnabled()){
+				((JavascriptExecutor)driver).executeScript("window.focus();");
+				getWebElement(by).sendKeys(data);
+				if(name.equalsIgnoreCase("Contrasena") || name.equalsIgnoreCase("password"))
+					data="*******";
+				Report.log("pass",data + " entered in "+"'"+name+"'"+ ".");
+			}else{
+				Report.log("fail","'"+name+"'" + " : edit field is not enabled");
+			}
+		}catch(NoSuchElementException e){
+			Report.log("fail",locator + " : Button not found");
+		}catch(ElementNotVisibleException e){
+			Report.log("fail",locator + " : Button not visible");
+
+		}catch(Exception e){
+			System.out.println(e.getMessage());
+			Report.log("fail","While entering data in " + name + " field, Error occurred: " +e.getMessage());
+		}
 	}
 
 	public static void selectByValue(By by, String data,String name){
@@ -195,13 +178,10 @@ public class FuncLib extends BasePage {
 				((JavascriptExecutor) driver).executeScript("window.focus();");
 				Select oSelect = new Select(getWebElement(by));
 				oSelect.selectByValue(data);
-
 				Report.log("pass", data + " entered in "+"'"+name+"'"+ ".");
-
 			}else{
 				Report.log("fail", "'"+name+"'" + " : edit field is not enabled");
 			}
-
 		}catch(NoSuchElementException e){
 			Report.log("fail", locator + " : Button not found");
 		}catch(ElementNotVisibleException e){
@@ -218,13 +198,10 @@ public class FuncLib extends BasePage {
 				((JavascriptExecutor) driver).executeScript("window.focus();");
 				Select oSelect = new Select(getWebElement(by));
 				oSelect.selectByVisibleText(data);
-
 				Report.log("pass", data + " entered in "+"'"+name+"'"+ ".");
-
 			}else{
 				Report.log("fail", "'"+name+"'" + " : edit field is not enabled");
 			}
-
 		}catch(NoSuchElementException e){
 			Report.log("fail", locator + " : Button not found");
 		}catch(ElementNotVisibleException e){
@@ -243,13 +220,10 @@ public class FuncLib extends BasePage {
 			if(strTempElement.isEnabled()){
 				Select oSelect = new Select(strTempElement);
 				oSelect.selectByVisibleText(data);
-
 				Report.log("pass", data + " entered in "+"'"+name+"'"+ ".");
-
 			}else{
 				Report.log("fail", "'"+name+"'" + " : edit field is not enabled");
 			}
-
 		}catch(NoSuchElementException e){
 			Report.log("fail", locator + " : Button not found");
 		}catch(ElementNotVisibleException e){
@@ -260,61 +234,24 @@ public class FuncLib extends BasePage {
 	}
 
 	public static WebElement getWebElement(By by){
-
 		WebElement webElement = null;
-
 		String strlocator=by.toString();
 		try{
-
 			waitForPageLoaded();
-
 			//waitForJQueryProcessing(driver,60);
-
-			WebElement dd =SmartWait.waitForElement(driver, by, 60);
+			WebElement dd =SmartWait.waitForElement(driver, by, BasePage.DEFAULT_WAIT_4_ELEMENT);
 			if (dd==null){
 				System.out.println("element is not appeared");
 				return null;
 			}
 			webElement = driver.findElement(by);
-
 		}catch (StaleElementReferenceException ex) {
 			System.out.println("StaleElementReferenceException ...");
 		}catch(NoSuchElementException e){
 			System.out.println(strlocator + " Element not found");
 		}
-
 		return webElement;
 	}
-
-	/*public static WebElement getWebElementAlias(By by){
-
-		WebElement webElement = null;
-
-		String strlocator=by.toString();
-		try{
-
-			waitForPageLoaded();
-
-			//waitForJQueryProcessing(driver,60);
-
-			WebElement dd =SmartWait.waitForElementToBeClickable(driver, by, 60);
-			if (dd==null){
-				System.out.println("element is not appeared");
-				return null;
-			}
-			webElement = driver.findElement(by);
-
-		}catch (StaleElementReferenceException ex) {
-			System.out.println("StaleElementReferenceException ...");
-		}catch(NoSuchElementException e){
-			System.out.println(strlocator + " Element not found");
-		}catch(InterruptedException e) {
-			System.out.println(strlocator + " InterruptedException");
-
-		}
-
-		return webElement;
-	}*/
 
 	public WebElement waitForElementPresentForClickable(WebDriver driver, final By by, int timeOutInSeconds) {
 		WebElement element;
@@ -383,7 +320,6 @@ public class FuncLib extends BasePage {
 		}
 	}
 	private boolean isElementPresentAndDisplay(WebDriver driver, By by) throws InterruptedException {
-
 		int attempts=0;
 		int maxAttempts=5;
 		while(attempts<=maxAttempts)
@@ -444,8 +380,6 @@ public class FuncLib extends BasePage {
 			System.out.println("Timeout waiting for Page Load Request to complete.");
 		}
 	}
-
-
 
 	public static void isReadonly(String locatorVal, String name, boolean bExpected) {
 		boolean bActual =isReadonly(locatorVal, name);
@@ -581,6 +515,20 @@ public class FuncLib extends BasePage {
 	}
 
 	public static void KeyPress(String locatorVal, String action) throws ExceptionHandler {
+		try {
+			By by = By.xpath(locatorVal);
+			String locator = by.toString();
+
+			WebElement strTempElement = getWebElement(by);
+			if(action.equalsIgnoreCase("enter"))
+				strTempElement.sendKeys(Keys.RETURN);
+			else
+				System.out.println("other actions yet to be defined!");
+		}catch (Exception e){
+			throw new ExceptionHandler(e);
+		}
+	}
+	public static void KeyPress(String locatorVal, String action, String name) throws ExceptionHandler {
 		try {
 			By by = By.xpath(locatorVal);
 			String locator = by.toString();

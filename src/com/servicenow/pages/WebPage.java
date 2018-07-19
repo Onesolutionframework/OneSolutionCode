@@ -9,7 +9,7 @@ public class WebPage {
     public static WebDriver webDriver = null;
 
     public WebPage(WebDriver inputDriver) {
-        this.webDriver = inputDriver;
+        webDriver = inputDriver;
     }
 
 
@@ -18,7 +18,7 @@ public class WebPage {
 
     public FuncLib getFunctionLibrary(){
         handlePopUps();
-        return new FuncLib(this.webDriver);
+        return new FuncLib(webDriver);
     }
 
 

@@ -1,0 +1,21 @@
+
+nsquid:UselessImportCheck">Remove this unused import 'org.testng.annotations.AfterSuite'.(ÓªÚ ùÿÿÿÿ8¥ÜúÈ,
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÔïØúÈ,
+lsquid:UselessImportCheck"<Remove this unused import 'com.servicenow.utilities.Report'.(ã„„ûÿÿÿÿ8¬íÁÈ,
+Fsquid:S3010%"#Remove this assignment of "driver".(²¤ëôûÿÿÿÿ8ÆáåàÈ,
+Ssquid:S1444""0Make this "public static pMainFrame" field final(±Åäùÿÿÿÿ8ÆáåàÈ,
+Œ"squid:ClassVariableVisibilityCheck"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8ÆáåàÈ,
+isquid:UselessImportCheck"?Remove this unused import 'org.testng.annotations.BeforeSuite'.(ñÅûa8¥ÜúÈ,
+Osquid:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8ÆáåàÈ,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÔïØúÈ,
+"squid:ClassVariableVisibilityCheck""VMake pMainFrame a static final constant or non-public and provide accessors if needed.(±Åäùÿÿÿÿ8ÆáåàÈ,
+osquid:UselessImportCheck"?Remove this unused import 'org.testng.annotations.AfterMethod'.(ÙÅ«§ÿÿÿÿÿ8¥ÜúÈ,
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‡ÔÚ™úÿÿÿÿ8ÆáåàÈ,
+Nsquid:S1444#"0Make this "public static softAssert" field final(Ÿ›é´8ÆáåàÈ,
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ÉÙö8ÆáåàÈ,
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(¬÷Îûÿÿÿÿ8ÆáåàÈ,
+Esquid:S16044"(Make this anonymous inner class a lambda(³‹‰{8ÆáåàÈ,
+‹"squid:ClassVariableVisibilityCheck#"VMake softAssert a static final constant or non-public and provide accessors if needed.(Ÿ›é´8ÆáåàÈ,
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ÔïØúÈ,

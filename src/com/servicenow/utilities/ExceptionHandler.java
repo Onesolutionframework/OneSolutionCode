@@ -1,5 +1,7 @@
 package com.servicenow.utilities;
-
+/**
+ * Created by Muni on 5/4/17.
+ */
 public class ExceptionHandler extends Exception {
 
     private static final long serialVersionUID = 1L;
@@ -26,7 +28,7 @@ public class ExceptionHandler extends Exception {
         super(message, cause, enableSuppression, writableStackTrace);
     }
 
-    public ExceptionHandler(Exception e) {
+    public ExceptionHandler(Exception e)  {
         super(e.getMessage());
         Report.log("fail", e.getMessage());
     }

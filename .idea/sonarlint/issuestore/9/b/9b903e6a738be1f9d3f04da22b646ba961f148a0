@@ -1,0 +1,16 @@
+
+‡"squid:ClassVariableVisibilityCheck"TMake strLogin a static final constant or non-public and provide accessors if needed.(‹ÔÇúüÿÿÿÿ
+›squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(¯êÚ
+Jsquid:S1444"-Make this "public static strCode" field final(«×òr8ÂÉ¼úÈ,
+Jsquid:S1444".Make this "public static strLogin" field final(‹ÔÇúüÿÿÿÿ
+o
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‡ÚŸê
+dsquid:S1192&"HDefine a constant instead of duplicating this literal "login: " 4 times.(–¢¾üÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake strUserName a static final constant or non-public and provide accessors if needed.(Ëªë¾şÿÿÿÿ
+Asquid:S00108 ")Either remove or fill this block of code.(å¥‡
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"SMake strCode a static final constant or non-public and provide accessors if needed.(«×òr8ÂÉ¼úÈ,
+Msquid:S1444"1Make this "public static strUserName" field final(Ëªë¾şÿÿÿÿ
+nsquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¤Şşÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÑä„
+[squid:S2583"DChange this condition so that it does not always evaluate to "false"(‡ÚŸê

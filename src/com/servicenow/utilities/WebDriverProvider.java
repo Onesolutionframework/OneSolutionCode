@@ -1,5 +1,8 @@
 package com.servicenow.utilities;
 
+import com.servicenow.browser.Browser;
+import com.servicenow.browser.SeleniumBrowser;
+import com.servicenow.browser.SeleniumBrowserFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -10,7 +13,7 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by Deepak on 5/4/17.
+ * Created by Muni on 5/4/17.
  */
 public class WebDriverProvider {
 
@@ -25,7 +28,6 @@ public class WebDriverProvider {
             driver = createLocalDriver(driver);
 
         //driver.get("http://qa1.kansascity.com");
-
         return driver;
     }
 
@@ -39,30 +41,13 @@ public class WebDriverProvider {
     }
 
     public static WebDriver createLocalDriver(WebDriver driver){
-        /*System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")  + "/src/main/resources/chromedriver.exe");
-        driver = new ChromeDriver();*/
-
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")  + "/src/main/resources/chromedriver.exe");
-       // System.setProperty("webdriver.ie.driver", System.getProperty("user.dir")  + "/src/main/resources/IEDriverServer.exe");
-        /*DesiredCapabilities returnCapabilities = DesiredCapabilities.internetExplorer();
-        returnCapabilities.setCapability(InternetExplorerDriver.ENABLE_PERSISTENT_HOVERING, true);
-        returnCapabilities.setJavascriptEnabled(true);*/
-
-//        var options = new InternetExplorerOptions();
-
-  //      driver = new InternetExplorerDriver();
-
-        driver=new ChromeDriver();
-
-        //driver.manage().window().maximize();
+        SeleniumBrowserFactory op = new SeleniumBrowserFactory();
+        driver= op.openBrowser();
         driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
-
         return driver;
     }
 
-
     public static WebDriver configureDriverForBrowsers(WebDriver driver, String os, String browser, String browserVersion) {
-
         caps = new WebDriverCapabilities().setDesiredCapabilities(os, browser, browserVersion);
 
         System.out.printf("Is Capability null ?");
@@ -75,8 +60,6 @@ public class WebDriverProvider {
             driver = createLocalDriver(driver);
 
         //driver.get("http://qa1.kansascity.com");
-
-
         return driver;
     }
 

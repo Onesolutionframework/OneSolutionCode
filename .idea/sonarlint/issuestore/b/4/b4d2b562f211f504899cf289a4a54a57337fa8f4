@@ -1,0 +1,24 @@
+
+@squid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106r"9Replace this use of System.out or System.err by a logger.(µ–Ÿ
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(¯«çü
+lsquid:S00100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù“¹›ûÿÿÿÿ
+bsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(¯«çü
+Isquid:S1481À",Remove this unused "locator" local variable.(ü–­æùÿÿÿÿ
+N
+squid:S106x"9Replace this use of System.out or System.err by a logger.(™ÛŞt
+O
+squid:S106m"9Replace this use of System.out or System.err by a logger.(´÷ËÄ
+3squid:S3626¨"Remove this redundant jump.(ûÁİ…
+gsquid:S00100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÌë‰
+Xsquid:S1854À";Remove this useless assignment to local variable "locator".(ü–­æùÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯«çü
+Csquid:S1172Š"+Remove this unused method parameter "name".(£À÷û
+O
+squid:S106v"9Replace this use of System.out or System.err by a logger.(£ˆäÔ
+rsquid:S11926"VDefine a constant instead of duplicating this literal "arguments[0].click();" 3 times.(¸±Ë­şÿÿÿÿ
+^squid:S2142¸"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(Ú›¼
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘

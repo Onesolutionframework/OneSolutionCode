@@ -4,7 +4,7 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 /**
- * Created by Deepak on 5/4/17.
+ * Created by Muni on 5/4/17.
  */
 public class WebDriverCapabilities {
 

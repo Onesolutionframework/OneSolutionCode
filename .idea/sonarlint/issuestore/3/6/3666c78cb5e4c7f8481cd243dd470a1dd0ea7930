@@ -1,0 +1,42 @@
+
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Ø£ïÿÿÿÿÿ8“Ø¸ßÈ,
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(è¼—˜üÿÿÿÿ8“Ø¸ßÈ,
+bsquid:S2583v"DChange this condition so that it does not always evaluate to "false"(Å˜©—8“Ø¸ßÈ,
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(šœ‚Ëúÿÿÿÿ8“Ø¸ßÈ,
+Isquid:S1444"2Make this "public static htmlReporter" field final(È£ÿ
+bsquid:S2583Y"DChange this condition so that it does not always evaluate to "false"(Å˜©—8“Ø¸ßÈ,
+csquid:S1858~"@"format" returns a string, there's no need to call "toString()".(ˆšòùÿÿÿÿ8“Ø¸ßÈ,
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ûù‘ıÿÿÿÿ
+jsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(®¥½Ç8“Ø¸ßÈ,
+Ksquid:S1172¢",Remove this unused method parameter "sTest".(»¸ÌÊ8“Ø¸ßÈ,
+Asquid:S1444"*Make this "public static test" field final(ô¿‘–
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ñëˆ‚ıÿÿÿÿ8“Ø¸ßÈ,
+[
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ñëˆ‚ıÿÿÿÿ8“Ø¸ßÈ,
+fsquid:S3986}"HMake sure that Week Year "YYYY" is expected here instead of Year "yyyy".(¤†·8“Ø¸ßÈ,
+Fsquid:S1125v"(Remove the literal "true" boolean value.(Å˜©—8“Ø¸ßÈ,
+Fsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“Ø¸ßÈ,
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(è¼—˜üÿÿÿÿ8“Ø¸ßÈ,
+}squid:S1488~"ZImmediately return this expression instead of assigning it to the temporary variable "ed".(ˆšòùÿÿÿÿ8“Ø¸ßÈ,
+Hsquid:S1444",Make this "public static extent" field final(ÆÍ¿…øÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake test a static final constant or non-public and provide accessors if needed.(ô¿‘–
+isquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(È•­¸8“Ø¸ßÈ,
+[
+squid:S106q"9Replace this use of System.out or System.err by a logger.(šœ‚Ëúÿÿÿÿ8“Ø¸ßÈ,
+Fsquid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“Ø¸ßÈ,
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(×—ú”ùÿÿÿÿ8“Ø¸ßÈ,
+Ksquid:S1172‘",Remove this unused method parameter "eTest".(§Ğ²É8“Ø¸ßÈ,
+Fsquid:S1125Y"(Remove the literal "true" boolean value.(Å˜©—8“Ø¸ßÈ,
+gsquid:S1192!"IDefine a constant instead of duplicating this literal "user.dir" 5 times.(¯ì‡ı8“Ø¸ßÈ,
+†"squid:ClassVariableVisibilityCheck"XMake htmlReporter a static final constant or non-public and provide accessors if needed.(È£ÿ
+Fsquid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“Ø¸ßÈ,
+isquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(÷¬¹±8“Ø¸ßÈ,
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(Ø£ïÿÿÿÿÿ8“Ø¸ßÈ,
+…"squid:ClassVariableVisibilityCheck"RMake extent a static final constant or non-public and provide accessors if needed.(ÆÍ¿…øÿÿÿÿ

@@ -44,10 +44,7 @@ public class CreateKnowledgeArticle extends BasePage{
 
     public static boolean VerifyCaption() throws ExceptionHandler {
         try {
-            if (NavBar.getNavTitle().contains("Knowledge"))
-                return true;
-            else
-                return false;
+            return NavBar.getNavTitle().contains("Knowledge");
         }catch (Exception e){
             throw new ExceptionHandler(e);
         }

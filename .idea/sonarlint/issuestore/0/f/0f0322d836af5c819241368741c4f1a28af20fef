@@ -1,0 +1,22 @@
+
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(‹ÄÑ¯8ó¥òóÈ,
+]squid:S1118":Add a private constructor to hide the implicit public one.(Î±Ë¼üÿÿÿÿ8ó¥òóÈ,
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(„Ê¡ûÿÿÿÿ8‚ú…ôÈ,
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ý¬Ùúÿÿÿÿÿ8ó¥òóÈ,
+fsquid:UselessImportCheck";Remove this unused import 'com.servicenow.browser.Browser'.(Ýç„‰8ì§“ôÈ,
+nsquid:UselessImportCheck"CRemove this unused import 'com.servicenow.browser.SeleniumBrowser'.(›õ˜ù8ÝÈõóÈ,
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ý¬Ùúÿÿÿÿÿ8ó¥òóÈ,
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(à¼Ž«ùÿÿÿÿ8‚ú…ôÈ,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„Ê¡ûÿÿÿÿ8ó¥òóÈ,
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ó¥òóÈ,
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ú¹©„ûÿÿÿÿ8‚ú…ôÈ,
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(äË¥·þÿÿÿÿ8‚ú…ôÈ,
+nsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ÉËÚµùÿÿÿÿ8ó¥òóÈ,
+hsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(á¢«8á©•ôÈ,
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(‘Ïáùÿÿÿÿ8ó¥òóÈ,
+Hsquid:S3457M"%String contains no format specifiers.(à¼Ž«ùÿÿÿÿ8‚ú…ôÈ,
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(žíÞùÿÿÿÿ8‚ú…ôÈ,
+fsquid:S1226?"CIntroduce a new variable instead of reusing the parameter "driver".(Ôš‘”ûÿÿÿÿ8è«ÄûÈ,

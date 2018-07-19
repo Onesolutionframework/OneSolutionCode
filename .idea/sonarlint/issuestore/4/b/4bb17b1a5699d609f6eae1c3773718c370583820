@@ -1,0 +1,4 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(Ç¹Â½øÿÿÿÿ8³»ùÁÈ,
+"squid:ClassVariableVisibilityCheck"VMake rptClicked a static final constant or non-public and provide accessors if needed.(—öìûÿÿÿÿ8Ÿ’™ßÈ,
+Ssquid:S1444"0Make this "public static rptClicked" field final(—öìûÿÿÿÿ8Ÿ’™ßÈ,

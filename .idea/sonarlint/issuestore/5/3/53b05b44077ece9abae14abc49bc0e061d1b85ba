@@ -1,0 +1,10 @@
+
+osquid:S1192J"LUse already-defined constant 'CHROME' instead of duplicating its value here.(ÕùÛùÿÿÿÿ8±³ÒîÈ,
+psquid:S1192G"MUse already-defined constant 'FIREFOX' instead of duplicating its value here.(÷åÛåøÿÿÿÿ8±³ÒîÈ,
+osquid:S1192S"LUse already-defined constant 'SAFARI' instead of duplicating its value here.(’şÊÏøÿÿÿÿ8±³ÒîÈ,
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ĞÛø8…œ¬ûÈ,
+dsquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(•Œœj8±³ÒîÈ,
+msquid:S1192P"OUse already-defined constant 'PHANTOMJS' instead of duplicating its value here.(ÑçÅù8±³ÒîÈ,
+Usquid:S3878Y"8Remove this array creation and simply pass the elements.(•Œœj8±³ÒîÈ,
+osquid:UnusedPrivateMethod,">Remove this unused private "createSeleniumGridBrowser" method.(Úéœúÿÿÿÿ8…œ¬ûÈ,
+Ysquid:S2696A"6Make the enclosing method "static" or remove this set.(§ëÊ½ùÿÿÿÿ8¢Õ¸üÈ,

@@ -23,19 +23,8 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-/*import com.ntt.acoe.framework.config.Environment;
-import com.ntt.acoe.framework.loggers.//ScriptLogger;
-import com.ntt.acoe.framework.selenium.report.Reporting;
-import com.ntt.acoe.framework.selenium.verify.//Assert;*/
-
 /**
- *
- *
- *
- * @author Vijaya Bhaskar Devireddy (DELL Badge Id: 614269,
- *         Vijaya_Bhaskar_Devir@dell.com)
- * @version 1.0
- * @since 2015-01-01
+ * Created by Muni on 5/4/17.
  */
 public class DataTable {
     String[][] matchedData;
@@ -166,11 +155,7 @@ public class DataTable {
         XSSFSheet sheet = workbook.getSheet(sheetName.trim());
         evaluator = workbook.getCreationHelper().createFormulaEvaluator();
 
-        if (sheet == null) {
-            return false;
-        } else {
-            return true;
-        }
+        return sheet != null;
     }
 
     private boolean doesTestCaseIdExist() {

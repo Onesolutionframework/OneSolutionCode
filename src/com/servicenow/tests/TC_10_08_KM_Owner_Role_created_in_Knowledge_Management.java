@@ -16,8 +16,6 @@ import org.testng.asserts.SoftAssert;
 import java.awt.*;
 import java.lang.reflect.Method;
 
-import static com.servicenow.pages.BasePage.pMainFrame;
-
 public class TC_10_08_KM_Owner_Role_created_in_Knowledge_Management extends PageInitialize {
     SoftAssert softassert = new SoftAssert();
 
@@ -90,7 +88,7 @@ public class TC_10_08_KM_Owner_Role_created_in_Knowledge_Management extends Page
             LeftNav.selectOption(dLeftPaneOption);
 
             CreateKnowledgeArticle KB = new CreateKnowledgeArticle(driver);
-            AppLib.switchToMainFrame(pMainFrame);
+            //AppLib.switchToMainFrame(pMainFrame);
             CreateKnowledgeArticle.VerifyCaption();
             CreateKnowledgeArticle.captureNumber();
             CreateKnowledgeArticle.Validation();

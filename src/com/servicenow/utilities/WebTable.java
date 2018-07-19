@@ -5,7 +5,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
-
+/**
+ * Created by Muni on 5/4/17.
+ */
 public class WebTable extends FuncLib {
     public WebTable(WebDriver inputDriver) {
         super(inputDriver);

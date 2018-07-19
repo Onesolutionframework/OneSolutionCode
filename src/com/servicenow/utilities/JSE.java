@@ -2,13 +2,14 @@ package com.servicenow.utilities;
 
 import java.util.List;
 
-import com.servicenow.pages.BasePage;
 import org.openqa.selenium.*;
 
 import io.appium.java_client.AppiumDriver;
 
 import static com.servicenow.utilities.FuncLib.getWebElement;
-
+/**
+ * Created by Muni on 5/4/17.
+ */
 public class JSE extends BasePage {
 
 

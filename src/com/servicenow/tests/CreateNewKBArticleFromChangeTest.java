@@ -3,12 +3,6 @@ package com.servicenow.tests;
 import com.servicenow.base.PageInitialize;
 import com.servicenow.pages.*;
 import com.servicenow.utilities.*;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
-import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -35,7 +29,6 @@ public class CreateNewKBArticleFromChangeTest extends PageInitialize {
         sTest=methodName.getName();
         System.out.println("current method: "+methodName.getName());
         Report.createTest(sTest);
-
     }
 
     @AfterMethod

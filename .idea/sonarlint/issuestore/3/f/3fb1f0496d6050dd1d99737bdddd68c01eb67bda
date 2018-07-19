@@ -1,0 +1,92 @@
+
+Osquid:S1172È"+Remove this unused method parameter "name".(ğüª×ûÿÿÿÿ8üå“ÁÈ,
+squid:S1488ù"bImmediately return this expression instead of assigning it to the temporary variable "sActualVal".(ÒÕËï8üå“ÁÈ,
+psquid:S2259ê"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(‰²œ¨úÿÿÿÿ8üå“ÁÈ,
+rsquid:S1192S"UDefine a constant instead of duplicating this literal " : Button not found" 12 times.(åì8üå“ÁÈ,
+\
+squid:S106³"9Replace this use of System.out or System.err by a logger.(¬÷Îûÿÿÿÿ8üå“ÁÈ,
+|squid:S1192O"YDefine a constant instead of duplicating this literal " : Button is not enabled" 3 times.(Õ’òşÿÿÿÿ8üå“ÁÈ,
+ksquid:S2259Ğ"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(ÚÄÎí8üå“ÁÈ,
+Jsquid:S1168î"+Return an empty collection instead of null.(¥¹ï8üå“ÁÈ,
+ssquid:S00100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ší°ûÿÿÿÿ8üå“ÁÈ,
+ssquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Äşşúÿÿÿÿ8üå“ÁÈ,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üªì€üÿÿÿÿ
+Ksquid:S1481‹",Remove this unused "handles" local variable.(ô™Íò8üå“ÁÈ,
+W
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(½›á8üå“ÁÈ,
+lsquid:UnusedPrivateMethodø"?Remove this unused private "isElementPresentAndDisplay" method.(ÀæËÈ8üå“ÁÈ,
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8üå“ÁÈ,
+Psquid:S1481Á",Remove this unused "locator" local variable.(ü–­æùÿÿÿÿ8üå“ÁÈ,
+psquid:S2259£"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(¨·¤ıÿÿÿÿ8üå“ÁÈ,
+psquid:S2259á"LA "NullPointerException" could be thrown; "strTempElement" is nullable here.(ç¯®³ùÿÿÿÿ8üå“ÁÈ,
+¥squid:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Óå©úÿÿÿÿ8üå“ÁÈ,
+Dsquid:S1181¯"%Catch Exception instead of Throwable.(½Ğğ•8üå“ÁÈ,
+Zsquid:S1854";Remove this useless assignment to local variable "handles".(ô™Íò8üå“ÁÈ,
+Jsquid:S1172‘"+Remove this unused method parameter "name".(–à¹¤8üå“ÁÈ,
+W
+squid:S106€"9Replace this use of System.out or System.err by a logger.(ÛØŠå8üå“ÁÈ,
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8üå“ÁÈ,
+Gsquid:S11253")Remove the literal "false" boolean value.(†§¬í8§µ“ÁÈ,
+V
+squid:S106~"9Replace this use of System.out or System.err by a logger.(Ê´àˆ8üå“ÁÈ,
+wsquid:S1192—"XDefine a constant instead of duplicating this literal "While entering data in " 5 times.(˜ûë8üå“ÁÈ,
+Tsquid:UnusedPrivateMethod!"/Remove this unused private "mouseHover" method.(•ä²Ï
+jsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(¢æ’8üå“ÁÈ,
+ssquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜáÉüÿÿÿÿ8üå“ÁÈ,
+osquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(ªŸåŞşÿÿÿÿ8üå“ÁÈ,
+Zsquid:S1854‹";Remove this useless assignment to local variable "handles".(ô™Íò8üå“ÁÈ,
+\
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(õÙâûÿÿÿÿ8üå“ÁÈ,
+ksquid:S2259Ó"LA "NullPointerException" could be thrown; "strTempElement" is nullable here.(Å”“â8üå“ÁÈ,
+jsquid:S2259H"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(ÚÄÎí8üå“ÁÈ,
+nsquid:S1192I"PDefine a constant instead of duplicating this literal "window.focus();" 6 times.(©»ÊØ8üå“ÁÈ,
+msquid:S001009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç±À8üå“ÁÈ,
+Hsquid:S1125™")Remove the literal "false" boolean value.(Û“õµ8üå“ÁÈ,
+ksquid:S2259‡"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(ÚÄÎí8üå“ÁÈ,
+Psquid:S1481Ï",Remove this unused "locator" local variable.(ü–­æùÿÿÿÿ8üå“ÁÈ,
+ssquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Óå©úÿÿÿÿ8üå“ÁÈ,
+Gsquid:S1148ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8üå“ÁÈ,
+qsquid:S1192Œ"MDefine a constant instead of duplicating this literal " entered in " 5 times.(ò¥µİùÿÿÿÿ8üå“ÁÈ,
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(Ğòüÿÿÿÿ8üå“ÁÈ,
+Lsquid:S1604á"(Make this anonymous inner class a lambda(ÿ»•úÿÿÿÿ8üå“ÁÈ,
+jsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(üğ‰†8üå“ÁÈ,
+isquid:S2259K"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(´ñı-8üå“ÁÈ,
+ksquid:S2259Å"LA "NullPointerException" could be thrown; "strTempElement" is nullable here.(Å”“â8üå“ÁÈ,
+ksquid:S2259¡"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(ÚÄÎí8üå“ÁÈ,
+W
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Ê¸ 8üå“ÁÈ,
+zsquid:S1192U"WDefine a constant instead of duplicating this literal " : Button not visible" 12 times.(ÿêãÿÿÿÿÿ8üå“ÁÈ,
+psquid:S2259‰"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(¨·¤ıÿÿÿÿ8üå“ÁÈ,
+_squid:S1854Á";Remove this useless assignment to local variable "locator".(ü–­æùÿÿÿÿ8üå“ÁÈ,
+jsquid:S1192L"LDefine a constant instead of duplicating this literal "Clicked on " 3 times.(âé Õ8üå“ÁÈ,
+isquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(„… g8üå“ÁÈ,
+osquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(í£«ıÿÿÿÿ8üå“ÁÈ,
+_squid:S1854Ï";Remove this useless assignment to local variable "locator".(ü–­æùÿÿÿÿ8üå“ÁÈ,
+xsquid:S1192—"YDefine a constant instead of duplicating this literal " field, Error occurred: " 5 times.(˜ûë8üå“ÁÈ,
+†squid:S1192J"cDefine a constant instead of duplicating this literal "arguments[0].scrollIntoView(true);" 3 times.(Ùİ®°şÿÿÿÿ8üå“ÁÈ,
+=squid:S1172)"&Remove these unused method parameters.(ç€•Ø
+ksquid:S2259ê"LA "NullPointerException" could be thrown; "strTempElement" is nullable here.(ù¥ÍÓ8üå“ÁÈ,
+Osquid:S1172Ì"+Remove this unused method parameter "name".(¢Äşşúÿÿÿÿ8üå“ÁÈ,
+Ksquid:S1481",Remove this unused "handles" local variable.(ô™Íò8üå“ÁÈ,
+Ysquid:S1141«"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8üå“ÁÈ,
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(úî°Ç8üå“ÁÈ,
+\
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(õÙâûÿÿÿÿ8üå“ÁÈ,
+osquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(ªŸåŞşÿÿÿÿ8üå“ÁÈ,
+\
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8üå“ÁÈ,
+Gsquid:S1125Ğ")Remove the literal "false" boolean value.(¥ü‰}8üå“ÁÈ,
+nsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÅ©Ã8üå“ÁÈ,
+ksquid:S2259¹"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(ÚÄÎí8üå“ÁÈ,
+\
+squid:S106°"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8üå“ÁÈ,
+Jsquid:S1172¶"+Remove this unused method parameter "name".(ö½ª·8üå“ÁÈ,
+Fsquid:S1604¦"(Make this anonymous inner class a lambda(³‹‰{8üå“ÁÈ,
+qsquid:S1226º"MIntroduce a new variable instead of reusing the parameter "timeOutInSeconds".(»ëÕıÿÿÿÿ8üå“ÁÈ,
+V
+squid:S106w"9Replace this use of System.out or System.err by a logger.(Ïøçî8üå“ÁÈ,
+|squid:S1192"]Define a constant instead of duplicating this literal " : edit field is not enabled" 5 times.(“ıÄœ8üå“ÁÈ,

@@ -13,7 +13,7 @@ import java.awt.*;
 import java.lang.reflect.Method;
 
 public class CreateNewKBArticleFromIncidentTest extends PageInitialize {
-    SoftAssert softassert = new SoftAssert();
+    //SoftAssert softassert = new SoftAssert();
 
     public static int DEFAULT_WAIT_4_PAGE=60;
     public String sTest;
@@ -36,17 +36,12 @@ public class CreateNewKBArticleFromIncidentTest extends PageInitialize {
         sTest=methodName.getName();
         System.out.println("end method: "+methodName.getName());
         Report.endTest(sTest);
-
-
     }
-
 
     @Test(enabled = true)
     public void CreateNewKBArticleFromIncidentTest() throws InterruptedException, AWTException {
         CreateKnowledgeArticle();
     }
-
-
 
     public void CreateKnowledgeArticle(){
         try {
@@ -120,45 +115,5 @@ public class CreateNewKBArticleFromIncidentTest extends PageInitialize {
             Report.log("fail", "test failed.." + e.getMessage());
         }
     }
-    @Test(enabled = false)
-    public void CreateKB_Article1() throws InterruptedException, AWTException, ExceptionHandler {
 
-
-            AppLib.launch("https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_textarea");
-            Thread.sleep(5000);
-            driver.switchTo().frame("iframeResult");
-            WebElement wblmt =  driver.findElement(By.xpath("//body/textarea"));
-            driver.findElement(By.xpath("//body/textarea")).sendKeys("Hola");
-           Actions action = new Actions(driver);
-            action.moveToElement(wblmt,10,3).click().keyDown(Keys.SHIFT).moveToElement(wblmt,100, 0).click().keyUp(Keys.SHIFT).build().perform();
-
-            // assuming driver is a well behaving WebDriver
-            /*Actions actions = new Actions(driver);
-            // and some variation of this:
-            actions.moveToElement(wblmt, 0, 5)
-                    .clickAndHold()
-                    .moveByOffset(15, 10)
-                    .release()
-                    .perform();*/
-            Thread.sleep(10000);
-
-
-    }
-
-    @Test(enabled = false)
-    public void CreateKB_Article2() throws InterruptedException, AWTException, ExceptionHandler {
-
-
-            AppLib.launch("C:\\Users\\mu372014\\Desktop\\est.htm");
-
-            driver.findElement(By.xpath("//body/a")).click();
-            Thread.sleep(10000);
-
-            System.out.println("Windows size: " + driver.getWindowHandles().size());
-
-            for(String winHandle:driver.getWindowHandles()){
-             driver.switchTo().window(winHandle);
-            }
-    }
-
-   }
+}

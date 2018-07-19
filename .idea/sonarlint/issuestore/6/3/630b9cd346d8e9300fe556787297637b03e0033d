@@ -1,0 +1,21 @@
+
+"squid:ClassVariableVisibilityCheck"QMake sTest a static final constant or non-public and provide accessors if needed.(Õ€…Ì
+isquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“£’Ê
+hsquid:S12231"LRename this method to prevent any misunderstanding or make it a constructor.( èõ¾þÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(’ëï·üÿÿÿÿ
+Xsquid:S1481B"<Remove this unused "dCreateKnowledgeArticle" local variable.(¬ªäŒþÿÿÿÿ
+>squid:S1481Z"'Remove this unused "KB" local variable.(“£’Ê
+gsquid:S1854B"KRemove this useless assignment to local variable "dCreateKnowledgeArticle".(¬ªäŒþÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(øï¹Äúÿÿÿÿ
+’"squid:ClassVariableVisibilityCheck"_Make DEFAULT_WAIT_4_PAGE a static final constant or non-public and provide accessors if needed.(¥‡ÀÈùÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ôÿ¶þÿÿÿÿ
+nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÀÖÐÿÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ÉÏ¼í
+Usquid:S1444"9Make this "public static DEFAULT_WAIT_4_PAGE" field final(¥‡ÀÈùÿÿÿÿ
+Msquid:S1854Z"6Remove this useless assignment to local variable "KB".(“£’Ê
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(…Í‚Ž
+zsquid:S3008"^Rename this field "DEFAULT_WAIT_4_PAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‡ÀÈùÿÿÿÿ
+isquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(…ýàø8þûúÈ,

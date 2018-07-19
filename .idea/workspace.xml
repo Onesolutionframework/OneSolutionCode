@@ -1,7 +1,282 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29b8c326-38b0-401a-aa3a-28e2276cbd98" name="Default" comment="" />
+    <list default="true" id="29b8c326-38b0-401a-aa3a-28e2276cbd98" name="Default" comment="good changes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f0322d836af5c819241368741c4f1a28af20fef" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18412aaa6ad392b1a754d8518f5d871729bcdfac" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21a42e6b8c690da8ee2e915ca4fc3c8ec852e25e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a94aec9aa0eebc17994f378b8556dda291ccea2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c1b49925db3e647d0db31d6ebcc5edc7da92590" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2ccf46f5f2cc707444b0e0125513ea6e5de288f3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eea48fd0490553f5a89195611c1d97448389f1d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3666c78cb5e4c7f8481cd243dd470a1dd0ea7930" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d0d07f0cbbc691209c5be36dc5436c944a00c63" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d6bfad034bf5fa0ea03088ace5b8baa81772064" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dbff364cc148e19b76ba88904e9d565f1bac6c1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fb1f0496d6050dd1d99737bdddd68c01eb67bda" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fbd45a637683d3ce2e14537aae5d86538cc2fc0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fbd965fdb7c83e65958c7477944505ba7148c7f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/437762b96d33690c266dbc80b4dc39a1dfacd25f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43a6f4c92ba693c35f5bd88b61d76d2cb3f89894" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4771cb0d92bdc518cb9411ee8c079e8f2cc628c5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bb17b1a5699d609f6eae1c3773718c370583820" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f1c780a43fae94569f34ad79c5a739c0ffd9ef1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f8255424c39a8ec5ac7507806721a814b526a33" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53b05b44077ece9abae14abc49bc0e061d1b85ba" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ed67800b1fcfe862050c6b67484e25833d8140d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/630b9cd346d8e9300fe556787297637b03e0033d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e7bc3bbae568b3f574f269f3755a64c584d55fa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7097ec3a5185ee6ac4acfdc815ac0ecc28af4a67" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/715c215637451fbd0047b63037b8dabb33e1f343" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7330e4252652b61093498eabc26c3cadee5d89b7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/755950bb690295904a49d36e60958901c54013b8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/792b086aeb9d6601683fb0b1efd12a732746547a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b5644ed70ceec2efd140d4a174cf44519a10fe6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81d8d5ae0c0986155c67abe477d417094c287843" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b4499b978ef4487c81c5cc2de5e65b84d775fae" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9470c8c06adf265824092c6ffa0c5fd5aa25fbdd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98676529083d14c8103332f41ed491422e81aa4e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b903e6a738be1f9d3f04da22b646ba961f148a0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9cbb5e07ae50482d833753a6fd8d67e313e169e6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6ff21c975f385e18c31d607df676c94c5d21a5a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4d2b562f211f504899cf289a4a54a57337fa8f4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc629cba11910e09ef5f8a7bd9bb4e4e590f8f99" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf6adc35bcf30131cc566bd6c10618df86e30d0a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2e968a7aff9b74d10f044637f70a5f18d2b2f0f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c399f5fc39cc56a502fd8341efdb1b54e5358e3d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5137a068a57bcbb28c0c8ebc69fe8cb375a5ec7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd6373cfb7d85fb93b685045b27942cfbf42ed61" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce02f4b6e0e62450aced263a9d7a34d1d6c86a49" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfce2a4c248c85b1e2e5341c40f247a0866eb48d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcffa996293f0c9d8fbd5c3d90c33eefa7e740ce" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea23925f4938356146c693cf2e35853ca07e9177" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec88632d1fac23475fab54ccba4db0c16edc1e74" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f32b1e52467f8c4086d7b2fc6882043ccc49719c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8a9372357c316f888605f22473a16604c3c2bc1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f912dfdd804e2011fd827a0ca99c3815764c184c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fccb773334c9f3baab574f6ac1577a6e1c26e9ad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_1_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_37_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_37_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_48_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_48_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_37_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_48_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_48_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_48_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_37_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_48_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_37_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/Bot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/Browser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/BrowserFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowserFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumGridBrowserFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebProperty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/browser/WebUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/MyLoginPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproHome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproLogout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WiproSearchApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/NewTab.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/Windows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/WiproTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/BasePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/AgroLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/FuncLib1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/JSE1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/PropertiesUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReportMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReporterNG.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/Repository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Default Suite/Default test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Default Suite/Default test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.servicenow.tests.CreateNewKBArticleFromChangeTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/Default test.properties" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/BasePage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/AllureAttachments.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/AllureListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/AppliTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/BrowserFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Configuration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/CookieHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/CreateKnowledgeArticle1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/DBUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Environment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/HttpRequestResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/JSONutils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/JavaScript.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/MainMenuPage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/PackOne/demoOne.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/PropertyFileRead.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Select.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/TestReport.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Testing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/Title.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/packTwo/demoTwo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/verify/Assert.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/servicenow/zProgress/verify/Comparator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/BasePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/BrowserStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/BrowserStackDataProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/CookieHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/CreateKnowledgeArticle1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/DBUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Environment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/HttpRequestResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/JSONutils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/JavaScript.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/MainMenuPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/PackOne/demoOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/PropertyFileRead.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Select.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/TestReport.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Testing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/Title.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/packTwo/demoTwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/zProgress/verify/Comparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testng11.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/base/PageInitialize.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/base/PageInitialize.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/CreateKnowledgeArticle.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/pages/CreateKnowledgeArticle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/Login.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/pages/Login.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/pages/WebPage.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/pages/WebPage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromChangeTest.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromChangeTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable$1.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/DataTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExcelUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExcelUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExceptionHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/ExceptionHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$1.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$2.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/FuncLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/IActions.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/IActions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/JSE.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/JSE.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/Report.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/Report.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$1.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$10.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$2.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$3.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$4.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$5.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$6.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$7.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$8.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$9.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/SmartWait.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebDriverProvider.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebDriverProvider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebTable.class" afterPath="$PROJECT_DIR$/target/classes/com/servicenow/utilities/WebTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SeleniumFramework.iml" afterPath="$PROJECT_DIR$/SeleniumFramework.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestReport/Report.html" afterPath="$PROJECT_DIR$/TestReport/Report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java" afterPath="$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/CreateKnowledgeArticle.java" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/CreateKnowledgeArticle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/Login.java" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/pages/WebPage.java" afterPath="$PROJECT_DIR$/src/com/servicenow/pages/WebPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.java" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" afterPath="$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/ExcelUtils.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/ExcelUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/Report.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/Report.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/WebTable.java" afterPath="$PROJECT_DIR$/src/com/servicenow/utilities/WebTable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/automation-testing.properties" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/automation-testing.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties" afterPath="$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserStack.java" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/BrowserStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserStackDataProvider.java" afterPath="$PROJECT_DIR$/src/com/servicenow/zEnhancements/BrowserStackDataProvider.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,108 +286,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateNewKBArticleFromChangeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Report.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/Report.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3255">
-              <caret line="238" column="59" lean-forward="false" selection-start-line="238" selection-start-column="44" selection-end-line="238" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SoftAssert.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/asserts/SoftAssert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng11.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng11.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>send</find>
       <find>exte</find>
-      <find>sendData</find>
-      <find>FuncLib.iSendData</find>
-      <find>FuncLib.iClick</find>
-      <find>FuncLib.sendData</find>
-      <find>FuncLib.senddata</find>
-      <find>FuncLib.eclick</find>
-      <find>SeO2Exception</find>
-      <find>iClick</find>
-      <find>iCli</find>
-      <find>ReadOnly</find>
-      <find>VerifyMandatoryField</find>
-      <find>common</find>
-      <find>4.1</find>
-      <find>selenium</find>
-      <find>guav</find>
-      <find>xml-apis</find>
-      <find>xml-a</find>
-      <find>poi</find>
-      <find>dNotificationForPublishing</find>
-      <find>SubmissionType</find>
-      <find>1</find>
-      <find>short</find>
-      <find>(//nav[contains(@class,'navbar navbar-default')])[1]//*[@class='navbar-header']//h2/span</find>
-      <find>navbar navbar-default</find>
-      <find>getText</find>
-      <find>velocity</find>
-      <find>guice</find>
-      <find>matchedRows</find>
+      <find>executeScript</find>
+      <find>load</find>
+      <find>page</find>
+      <find>wait</find>
+      <find>openWebDriver</find>
+      <find>webdriver.chrome.driver</find>
+      <find>iSend</find>
+      <find>mo</find>
+      <find>SCREENSHOT_AUTORESIZE</find>
+      <find>;</find>
+      <find>SeleniumPage</find>
+      <find>GALEN_USER_HOME_CONFIG_NAME</find>
+      <find>.confi</find>
+      <find>com.galenframework.utils.GalenUtils</find>
+      <find>GalenUtils</find>
+      <find>driver</find>
+      <find>SeleniumBrowser</find>
+      <find>get</find>
+      <find>createSeleniumGridBrowser</find>
+      <find>seleni</find>
+      <find>ga</find>
+      <find>grid</find>
+      <find>galen</find>
+      <find>defa</find>
+      <find>ext</find>
+      <find>extent</find>
+      <find>att</find>
+      <find>ExtentReports</find>
+      <find>setAppendExisting</find>
     </findStrings>
     <replaceStrings>
       <replace>//Assert</replace>
@@ -126,10 +341,12 @@
       <replace>isReadonly</replace>
       <replace>isMandatory</replace>
       <replace>iRowNo</replace>
+      <replace>WebPage</replace>
+      <replace>WebUtils</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CodeBase" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -142,57 +359,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/ExcelUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/AppliTest.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/Testing.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/CreateKnowledgeArticle1.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/WebDriverProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/Select.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/CreateKnowledgeArticle1.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/Configuration.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/Testing.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/TestReport.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/WebPage.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/CreateNewKBArticleFromIncident.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/BasePage.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/AppLib.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/Report.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/base/PageInitialize.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/CreateNewKBArticleFromKnowledgeModule.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/IncidentDetails.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/NavBar.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/FuncLib.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/LeftNav.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/CreateNewKBArticleFromIncidentTest.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/CreateNewKBArticleFromKnowledgeModuleTest.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/Source_Field_Update_When_KB_Is_Created_From_Task_Test.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/Logout.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/BrowserStack.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/BrowserStackDataProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/ExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/Incidents.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/ListItems.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/ContextMenu.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/CreateKnowledgeArticle.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/PackOne/demoOne.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/packTwo/demoTwo.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/Page.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/GalenConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/GalenProperty.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/WebUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/Browser.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/pages/MyLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserThreads.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/WebPage.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/katalon/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/ReporterNG.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserType.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/ElementHighlighter.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowser.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/Bot.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/Source_Field_Update_When_KB_Is_Created_From_Incident.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/tests/CreateNewKBArticleFromChangeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/utilities/DataTable.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/AllureAttachments.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/AllureListener.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/zProgress/BrowserFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/corning/pages/Login.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumGridBrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/BrowserStack.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/DriverType.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/ExistingDriverType.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib1.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/JSE1.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/PropertiesUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/WebTable.java" />
         <option value="$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java" />
-        <option value="$PROJECT_DIR$/src/com/servicenow/pages/Login.java" />
-        <option value="$PROJECT_DIR$/src/com/servicenow/pages/BasePage.java" />
-        <option value="$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java" />
-        <option value="$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/ExcelUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/WebProperty.java" />
+        <option value="$PROJECT_DIR$/web.config" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/web.config" />
         <option value="$PROJECT_DIR$/src/com/servicenow/utilities/Report.java" />
-        <option value="$PROJECT_DIR$/testng11.xml" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/test/WiproTest.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/Email.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/zEnhancements/AgroLogger.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/zEnhancements/Repository.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/servicenow/tests/WiproTest.java" />
       </list>
     </option>
   </component>
@@ -233,8 +450,9 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="56" />
     <option name="width" value="1356" />
     <option name="height" value="735" />
   </component>
@@ -282,28 +500,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="frontend" type="cbb8eebc:String" user="frontend" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="SeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="58d84e3e:PackageViewProjectNode" />
+              <item name="frontend" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -320,13 +528,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="frontend" type="58d84e3e:PackageViewProjectNode" />
-              <item name="frontend" type="616d4139:PackageViewModuleNode" />
+              <item name="AutoCodeBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoCodeBase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,31 +553,35 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.splitter.proportion" value="0.21568628" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\MuniBala\SeleniumFramework\ObjectRepo" />
-      <recent name="E:\MuniBala\BaseCode - Copy (2)\automation-testing\frontend\src\com\corning\zProgress" />
-      <recent name="E:\MuniBala\BaseCode - Copy (2)\automation-testing\frontend\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MuniBala\AutoCodeBase\src\main\resources" />
+      <recent name="E:\MuniBala\AutoCodeBase\src" />
+      <recent name="E:\MuniBala\AutoCodeBase\src\com\servicenow" />
+      <recent name="E:\MuniBala\AutoCodeBase\src\com\servicenow\utilities" />
+      <recent name="E:\MuniBala\AutoCodeBase" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.servicenow.utilities" />
+      <recent name="com.servicenow.test" />
       <recent name="com.corning.utilities" />
       <recent name="com.corning.tests" />
       <recent name="com.corning.pages" />
-      <recent name="com.mcclatchyinteractive.escenicfrontend.pages" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\MuniBala\SeleniumFramework\src\main\resources" />
-      <recent name="E:\MuniBala\SeleniumFramework\src\com\corning\zProgress" />
-      <recent name="E:\MuniBala\SeleniumFramework" />
-      <recent name="E:\MuniBala\BaseCode - Copy (2)\automation-testing\frontend\src\com\corning\utilities" />
-      <recent name="E:\MuniBala\BaseCode - Copy (2)\automation-testing\frontend\src\test\java\com\mcclatchyinteractive\escenicfrontend\utilities" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MuniBala\AutoCodeBase\src\com\servicenow\zEnhancements" />
+      <recent name="E:\MuniBala\AutoCodeBase\src\main\resources" />
+      <recent name="E:\MuniBala\SeleniumFramework\ObjectRepo" />
+      <recent name="E:\MuniBala\BaseCode - Copy (2)\automation-testing\frontend\src\com\corning\zProgress" />
+      <recent name="E:\MuniBala\BaseCode - Copy (2)\automation-testing\frontend\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,130 +596,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/MuniBala/SeleniumFramework/testng11.xml">
-    <configuration name="CreateNewKBArticleFromChangeTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.servicenow.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="SeleniumFramework" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.servicenow.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.CreateNewKBArticleFromChangeTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="CreateNewKBArticleFromChangeTest (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.servicenow.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="SeleniumFramework" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.servicenow.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.CreateNewKBArticleFromChangeTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="CreateNewKBArticleFromChangeTest (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.servicenow.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="SeleniumFramework" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.servicenow.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.CreateNewKBArticleFromChangeTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="E:/MuniBala/SeleniumFramework/testng11.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="SeleniumFramework" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng11.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
+  <component name="RunManager" selected="TestNG.WiproTest (4)">
     <configuration name="TC_10_08_KM_Owner_Role_created_in_Knowledge_Management (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -530,7 +629,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TC_10_08_KM_Owner_Role_created_in_Knowledge_Management" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WiproTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.servicenow.tests.*" />
@@ -542,7 +641,135 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.servicenow.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.TC_10_08_KM_Owner_Role_created_in_Knowledge_Management" />
+      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.WiproTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="WiproTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.servicenow.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SeleniumFramework" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.servicenow.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.WiproTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="WiproTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.servicenow.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SeleniumFramework" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.servicenow.test" />
+      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.WiproTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="WiproTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.servicenow.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SeleniumFramework" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.servicenow.test" />
+      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.WiproTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="WiproTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.servicenow.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SeleniumFramework" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.servicenow.test" />
+      <option name="MAIN_CLASS_NAME" value="com.servicenow.tests.WiproTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -656,19 +883,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.CreateNewKBArticleFromChangeTest (2)" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.CreateNewKBArticleFromChangeTest (4)" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.CreateNewKBArticleFromChangeTest (5)" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.E:/MuniBala/SeleniumFramework/testng11.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TC_10_08_KM_Owner_Role_created_in_Knowledge_Management" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.WiproTest (4)" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.WiproTest (3)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.WiproTest (5)" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.WiproTest (1)" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.WiproTest (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.E:/MuniBala/SeleniumFramework/testng11.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TC_10_08_KM_Owner_Role_created_in_Knowledge_Management" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.CreateNewKBArticleFromChangeTest (2)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.CreateNewKBArticleFromChangeTest (5)" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.CreateNewKBArticleFromChangeTest (4)" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.WiproTest (4)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.WiproTest (2)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.WiproTest (1)" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.WiproTest (5)" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.WiproTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -689,35 +916,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateNewKBArticleFromChangeTest_(1) - 2018.03.11 at 08h 59m 07s.xml">
-      <configuration name="CreateNewKBArticleFromChangeTest (1)" configurationId="TestNG" />
+    <history-entry file="WiproTest - 2018.07.19 at 12h 01m 33s.xml">
+      <configuration name="WiproTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateNewKBArticleFromChangeTest_(2) - 2018.03.11 at 09h 00m 29s.xml">
-      <configuration name="CreateNewKBArticleFromChangeTest (2)" configurationId="TestNG" />
+    <history-entry file="WiproTest - 2018.07.19 at 14h 07m 34s.xml">
+      <configuration name="WiproTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateNewKBArticleFromChangeTest_(2) - 2018.03.11 at 09h 10m 45s.xml">
-      <configuration name="CreateNewKBArticleFromChangeTest (2)" configurationId="TestNG" />
+    <history-entry file="WiproTest_(1) - 2018.07.19 at 11h 59m 38s.xml">
+      <configuration name="WiproTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateNewKBArticleFromChangeTest_(3) - 2018.03.11 at 09h 01m 17s.xml">
-      <configuration name="CreateNewKBArticleFromChangeTest (3)" configurationId="TestNG" />
+    <history-entry file="WiproTest_(1) - 2018.07.19 at 14h 04m 47s.xml">
+      <configuration name="WiproTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateNewKBArticleFromChangeTest_(4) - 2018.03.11 at 09h 02m 31s.xml">
-      <configuration name="CreateNewKBArticleFromChangeTest (4)" configurationId="TestNG" />
+    <history-entry file="WiproTest_(2) - 2018.07.19 at 12h 00m 02s.xml">
+      <configuration name="WiproTest (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CreateNewKBArticleFromChangeTest_(5) - 2018.03.11 at 09h 04m 15s.xml">
-      <configuration name="CreateNewKBArticleFromChangeTest (5)" configurationId="TestNG" />
+    <history-entry file="WiproTest_(2) - 2018.07.19 at 14h 05m 33s.xml">
+      <configuration name="WiproTest (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__MuniBala_SeleniumFramework_testng11_xml - 2018.03.11 at 09h 06m 07s.xml">
-      <configuration name="E:/MuniBala/SeleniumFramework/testng11.xml" configurationId="TestNG" />
+    <history-entry file="WiproTest_(3) - 2018.07.19 at 12h 33m 18s.xml">
+      <configuration name="WiproTest (3)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__MuniBala_SeleniumFramework_testng11_xml - 2018.03.11 at 09h 11m 44s.xml">
-      <configuration name="E:/MuniBala/SeleniumFramework/testng11.xml" configurationId="TestNG" />
+    <history-entry file="WiproTest_(4) - 2018.07.19 at 12h 10m 09s.xml">
+      <configuration name="WiproTest (4)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__MuniBala_SeleniumFramework_testng11_xml - 2018.03.11 at 15h 59m 31s.xml">
-      <configuration name="E:/MuniBala/SeleniumFramework/testng11.xml" configurationId="TestNG" />
+    <history-entry file="WiproTest_(4) - 2018.07.19 at 12h 12m 10s.xml">
+      <configuration name="WiproTest (4)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TC_10_08_KM_Owner_Role_created_in_Knowledge_Management - 2018.03.11 at 15h 56m 25s.xml">
-      <configuration name="TC_10_08_KM_Owner_Role_created_in_Knowledge_Management" configurationId="TestNG" />
+    <history-entry file="WiproTest_(5) - 2018.07.19 at 12h 35m 11s.xml">
+      <configuration name="WiproTest (5)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -730,39 +957,112 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="0" width="1356" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.4879154" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45335516" sideWeight="0.5121029" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42857143" sideWeight="0.48789713" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2076412" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5120846" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19335347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3622951" sideWeight="0.6344411" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18852459" sideWeight="0.49093655" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26929012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34441087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3229508" sideWeight="0.49697885" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40752864" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33442622" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33878887" sideWeight="0.49092284" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23442623" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3666121" sideWeight="0.52118003" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3409836" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.49092284" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5180328" sideWeight="0.47881997" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.299509" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27265862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="E:\MuniBala\SeleniumFramework\CodeBase" />
+    </ignored-roots>
+    <MESSAGE value="good changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="good changes" />
+    <option name="CHANGE_BROWSER_SETTINGS">
+      <map>
+        <entry key="tfs">
+          <value>
+            <ChangeBrowserSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -772,8 +1072,14 @@
           <line>11</line>
           <properties />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -782,67 +1088,293 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/ContextMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/BrowserThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="510">
+          <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/CreateKnowledgeArticle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/FuncLib1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        <state relative-caret-position="75">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/IActions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReporterNG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2279#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/ReportMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="52" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/TestReport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/Logout.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/Footer.gspec" />
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SmartWait.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="78" column="29" lean-forward="false" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/BrowserStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="21" column="83" lean-forward="false" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/ElementHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/ExcelUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/browser/WebProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Config.property">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="526" column="0" lean-forward="false" selection-start-line="526" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
+          <folding>
+            <element signature="e#21134#21135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/browser/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <element signature="e#1132#1220#1" expanded="true" />
+            <element signature="e#1149#1219#0" expanded="true" />
+            <element signature="e#1149#1219#0" expanded="true" />
+            <element signature="e#1149#1219#0" expanded="true" />
+            <element signature="e#1229#1295#1" expanded="true" />
+            <element signature="e#1304#1371#0" expanded="true" />
+            <element signature="e#1304#1371#0" expanded="true" />
+            <element signature="e#2031#2086#1" expanded="true" />
+            <element signature="e#2095#2353#0" expanded="true" />
+            <element signature="e#2095#2353#0" expanded="true" />
+            <element signature="e#2149#2194#1" expanded="true" />
+            <element signature="e#3803#3804#0" expanded="true" />
+            <element signature="e#4232#4233#0" expanded="true" />
+            <element signature="e#4296#4297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/extent-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/reporter/KlovReporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="66" column="11" lean-forward="false" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/ExtentTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="106" column="35" lean-forward="false" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/BrowserStackDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/IBrowserThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/JSE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/JSE1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/BrowserStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SauceLabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/SauceDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="53" column="42" lean-forward="false" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+          <folding>
+            <element signature="e#814#908#0" expanded="true" />
+            <element signature="e#814#908#0" expanded="true" />
+            <element signature="e#968#985#0" expanded="true" />
+            <element signature="e#968#985#0" expanded="true" />
+            <element signature="e#999#1021#0" expanded="true" />
+            <element signature="e#999#1021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng11.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="59" lean-forward="false" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -854,313 +1386,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.0.1/selenium-remote-driver-3.0.1-sources.jar!/org/openqa/selenium/remote/ErrorHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/packTwo/demoTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/PackOne/demoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/Logs/test1logs.log">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/Logs/Testlogs.log">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/DriverType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/Logs/Application.html">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/ExistingDriverType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/Source_Field_Update_When_KB_Is_Created_From_Task_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/AgroLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="123" column="65" lean-forward="false" selection-start-line="123" selection-start-column="65" selection-end-line="123" selection-end-column="65" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/Source_Field_Update_When_KB_Is_Created_From_Incident.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/Repository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="48" column="68" lean-forward="false" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/test/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/WebTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/TestData.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverCapabilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/CookieHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/CreateKnowledgeArticle1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/DBUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1384">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/AllureAttachments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/AllureListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/BrowserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="51" column="37" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumFramework.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/DataTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2220">
-          <caret line="499" column="0" lean-forward="false" selection-start-line="499" selection-start-column="0" selection-end-line="499" selection-end-column="0" />
-          <folding>
-            <element signature="method#doesSheetExist#0;class#DataTable#0" expanded="false" />
-            <element signature="method#doesTestCaseIdExist#0;class#DataTable#0" expanded="false" />
-            <element signature="method#cellValue#0;class#DataTable#0" expanded="false" />
-            <element signature="method#getValue#1;class#DataTable#0" expanded="false" />
-            <element signature="method#setValue#0;class#DataTable#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zProgress/JSONutils.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromKnowledgeModuleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="111" column="61" lean-forward="false" selection-start-line="111" selection-start-column="61" selection-end-line="111" selection-end-column="61" />
-          <folding>
-            <element signature="e#5664#5696#0" expanded="true" />
-            <element signature="e#5682#5696#0" expanded="true" />
-            <element signature="e#5664#5696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="102" lean-forward="false" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/ExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#807#821#0" expanded="true" />
-            <element signature="e#851#865#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="656" column="0" lean-forward="false" selection-start-line="656" selection-start-column="0" selection-end-line="656" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/FuncLib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#729#788#0" expanded="true" />
-            <element signature="e#729#788#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromIncidentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/servicenow/base/PageInitialize.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/asserts/SoftAssert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="223">
+          <caret line="71" column="45" lean-forward="false" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+          <folding>
+            <element signature="e#1773#1774#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/Report.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3255">
-          <caret line="238" column="59" lean-forward="false" selection-start-line="238" selection-start-column="44" selection-end-line="238" selection-end-column="59" />
+        <state relative-caret-position="225">
+          <caret line="34" column="85" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="85" />
+          <folding>
+            <element signature="e#1295#1367#0" expanded="true" />
+            <element signature="e#1295#1367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/browser/SeleniumBrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="78" column="124" lean-forward="false" selection-start-line="78" selection-start-column="124" selection-end-line="78" selection-end-column="124" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#2885#3178#0" expanded="true" />
+            <element signature="e#2885#3178#0" expanded="true" />
+            <element signature="e#3019#3091#0" expanded="true" />
+            <element signature="e#3019#3091#0" expanded="true" />
+            <element signature="e#3281#3352#0" expanded="true" />
+            <element signature="e#3281#3352#0" expanded="true" />
+            <element signature="e#3533#3606#0" expanded="true" />
+            <element signature="e#3533#3606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/zEnhancements/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/TC_10_08_KM_Owner_Role_created_in_Knowledge_Management.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/utilities/WebDriverProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng11.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="-92">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/CreateNewKBArticleFromChangeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/servicenow/tests/WiproTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <marker date="1531989383279" expanded="false" signature="3480:3486" ph="val" />
+            <marker date="1531989383279" expanded="false" signature="3513:3534" ph="shortDescription" />
+            <marker date="1531989383279" expanded="false" signature="3645:3667" ph="val" />
+            <marker date="1531989383279" expanded="false" signature="4170:4191" ph="configurationItem = " />
+            <marker date="1531989383279" expanded="false" signature="4209:4210" ph="" />
+            <marker date="1531989383279" expanded="false" signature="4486:4500" ph="assignedTo = " />
+            <marker date="1531989383279" expanded="false" signature="4511:4512" ph="" />
+            <marker date="1531989383279" expanded="false" signature="4549:4567" ph="knowledgeOwner = " />
+            <marker date="1531989383279" expanded="false" signature="4582:4583" ph="" />
+            <marker date="1531989383279" expanded="false" signature="5023:5035" ph="comments = " />
+            <marker date="1531989383279" expanded="false" signature="5044:5045" ph="" />
+            <marker date="1531989383279" expanded="false" signature="5288:5294" ph="val" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/old/FrontEnd Suite/FrontEnd Tests.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/servicenow/pages/Login.java">
+    <entry file="file://$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="96" lean-forward="false" selection-start-line="0" selection-start-column="96" selection-end-line="0" selection-end-column="96" />
           <folding />
         </state>
       </provider>
@@ -1217,11 +1605,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>frontend</last-edited>
+          <last-edited>SeleniumFramework</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

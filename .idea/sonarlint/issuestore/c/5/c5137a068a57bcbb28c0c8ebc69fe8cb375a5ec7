@@ -1,0 +1,28 @@
+
+hsquid:S3008"QRename this field "ObjMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğœïµ
+‡"squid:ClassVariableVisibilityCheck"TMake DataRead a static final constant or non-public and provide accessors if needed.(éåî¢ùÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"RMake ObjMap a static final constant or non-public and provide accessors if needed.(Ğœïµ
+ysquid:S1845"bRename method "login" to prevent any misunderstanding/clash with field "Login" defined on line 20.(ÖÑä„
+‚"squid:ClassVariableVisibilityCheck"TMake UserName a static final constant or non-public and provide accessors if needed.(ÕÍÉ—
++squid:S1700"Rename field "Login"(ˆÆ–Ê
+Esquid:S1444".Make this "public static UserName" field final(ÕÍÉ—
+bsquid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(éåî¢ùÿÿÿÿ
+Jsquid:S1444".Make this "public static DataRead" field final(éåî¢ùÿÿÿÿ
+nsquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¤Şşÿÿÿÿ
+jsquid:S3008"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘œ¾ı
+dsquid:S1192("HDefine a constant instead of duplicating this literal "login: " 4 times.(–¢¾üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(äƒóŞûÿÿÿÿ
+Osquid:S1444"3Make this "public static sTestDataFile" field final(…ƒøÿÿÿÿ
+Bsquid:S1444"+Make this "public static Login" field final(ˆÆ–Ê
+‚"squid:ClassVariableVisibilityCheck"TMake Password a static final constant or non-public and provide accessors if needed.(‘œ¾ı
+Csquid:S1444",Make this "public static ObjMap" field final(Ğœïµ
+gsquid:S3008"PRename this field "Login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÆ–Ê
+Esquid:S1444".Make this "public static Password" field final(‘œ¾ı
+‹squid:S1319"tThe type of the "ObjMap" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(Ğœïµ
+Œ"squid:ClassVariableVisibilityCheck"YMake sTestDataFile a static final constant or non-public and provide accessors if needed.(…ƒøÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÑä„
+jsquid:S3008"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÍÉ—
+osquid:S3008"SRename this field "DataRead" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éåî¢ùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake Login a static final constant or non-public and provide accessors if needed.(ˆÆ–Ê
+4squid:S2386"Make this member "protected".(Ğœïµ

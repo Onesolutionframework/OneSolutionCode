@@ -1,0 +1,59 @@
+
+jsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(¿ù‰†8ˆÃàÈ,
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯«çü8ˆÃàÈ,
+ssquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¡øŒøÿÿÿÿ8ˆÃàÈ,
+W
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(Ú›¼8ˆÃàÈ,
+_squid:S1854Ô";Remove this useless assignment to local variable "locator".(ü–­æùÿÿÿÿ8ˆÃàÈ,
+rsquid:S00100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÂêùÿÿÿÿ8ˆÃàÈ,
+Psquid:S1481Ô",Remove this unused "locator" local variable.(ü–­æùÿÿÿÿ8ˆÃàÈ,
+W
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(£ˆäÔ8ˆÃàÈ,
+isquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(¯«çü8ˆÃàÈ,
+V
+squid:S106É"9Replace this use of System.out or System.err by a logger.(™ÛÞt8ˆÃàÈ,
+{squid:S1192."^Define a constant instead of duplicating this literal "Element was not found in DOM " 6 times.(™ÛÞt8ˆÃàÈ,
+zsquid:S11920"\Define a constant instead of duplicating this literal "Unable to click on element " 5 times.(Ú›¼8ˆÃàÈ,
+Jsquid:S1172˜"+Remove this unused method parameter "name".(í›ú™8ˆÃàÈ,
+W
+squid:S106·"9Replace this use of System.out or System.err by a logger.(Ú›¼8ˆÃàÈ,
+V
+squid:S106Þ"9Replace this use of System.out or System.err by a logger.(™ÛÞt8ˆÃàÈ,
+ssquid:S00100Ð"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù“¹›ûÿÿÿÿ8ˆÃàÈ,
+msquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÎÔ³8ˆÃàÈ,
+rsquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¶øœýÿÿÿÿ8ˆÃàÈ,
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ú›¼8ˆÃàÈ,
+V
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(™ÛÞt8ˆÃàÈ,
+isquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(¯«çü8ˆÃàÈ,
+U
+squid:S106C"9Replace this use of System.out or System.err by a logger.(™ÛÞt8ˆÃàÈ,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(£ˆäÔ8ˆÃàÈ,
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(µ–Ÿ8ˆÃàÈ,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ˆÃàÈ,
+ysquid:S1192:"VDefine a constant instead of duplicating this literal "arguments[0].click();" 3 times.(¸±Ë­þÿÿÿÿ8ˆÃàÈ,
+W
+squid:S106„"9Replace this use of System.out or System.err by a logger.(£ˆäÔ8ˆÃàÈ,
+V
+squid:S106†"9Replace this use of System.out or System.err by a logger.(™ÛÞt8ˆÃàÈ,
+W
+squid:S106³"9Replace this use of System.out or System.err by a logger.(£ˆäÔ8ˆÃàÈ,
+U
+squid:S106."9Replace this use of System.out or System.err by a logger.(™ÛÞt8ˆÃàÈ,
+V
+squid:S106|"9Replace this use of System.out or System.err by a logger.(´÷ËÄ8ˆÃàÈ,
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ú›¼8ˆÃàÈ,
+W
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(£ˆäÔ8ˆÃàÈ,
+W
+squid:S106€"9Replace this use of System.out or System.err by a logger.(µ–Ÿ8ˆÃàÈ,
+Œsquid:S1192,"nDefine a constant instead of duplicating this literal "Element is not attached to the page document " 6 times.(£ˆäÔ8ˆÃàÈ,
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(£ˆäÔ8ˆÃàÈ,
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(Ú›¼8ˆÃàÈ,
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µóÛÿ8ˆÃàÈ,

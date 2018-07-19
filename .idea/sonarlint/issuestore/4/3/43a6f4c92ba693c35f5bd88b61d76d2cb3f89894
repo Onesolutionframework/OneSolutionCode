@@ -1,0 +1,22 @@
+
+’"squid:ClassVariableVisibilityCheck"_Make DEFAULT_WAIT_4_PAGE a static final constant or non-public and provide accessors if needed.(¥‡ÀÈùÿÿÿÿ
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¯›ô’ùÿÿÿÿ8øÑŠûÈ,
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯›ô’ùÿÿÿÿ8øÑŠûÈ,
+msquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş……ø8øÑŠûÈ,
+>squid:S1481["'Remove this unused "KB" local variable.(“£’Ê
+¯%squid:RedundantThrowsDeclarationCheck."wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ş……ø8øÑŠûÈ,
+¦%squid:RedundantThrowsDeclarationCheck."nRemove the declaration of thrown exception 'java.awt.AWTException', as it cannot be thrown from method's body.(ş……ø8øÑŠûÈ,
+nsquid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶íƒûÿÿÿÿ
+Usquid:S1444"9Make this "public static DEFAULT_WAIT_4_PAGE" field final(¥‡ÀÈùÿÿÿÿ
+Msquid:S1854["6Remove this useless assignment to local variable "KB".(“£’Ê
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¯›ô’ùÿÿÿÿ8øÑŠûÈ,
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÉÏ¼í
+msquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‘â8øÑŠûÈ,
+nsquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÀÖĞÿÿÿÿÿ
+isquid:S00117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“£’Ê
+zsquid:S3008"^Rename this field "DEFAULT_WAIT_4_PAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‡ÀÈùÿÿÿÿ
+gsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(¨ Ÿüûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake sTest a static final constant or non-public and provide accessors if needed.(Õ€…Ì
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(’ëï·üÿÿÿÿ

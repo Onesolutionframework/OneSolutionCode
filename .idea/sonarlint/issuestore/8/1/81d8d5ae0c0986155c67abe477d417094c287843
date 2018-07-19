@@ -1,0 +1,45 @@
+
+`squid:UnusedPrivateMethod’"5Remove this unused private "isElementPresent" method.(®„­Ôÿÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ªŸåÞþÿÿÿÿ
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(†€éˆ
+csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(¨ƒŽŒ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Æ³²ü
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¬÷Îûÿÿÿÿ
+N
+squid:S106`"9Replace this use of System.out or System.err by a logger.(„€âe
+O
+squid:S106c"9Replace this use of System.out or System.err by a logger.(µ¸ÿë
+T
+squid:S106h"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(Ÿ”ÅÓûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(„€âe
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ¸ÿë
+U
+squid:S106•"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+P
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ý‡å¿
+Nsquid:S1135""2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+isquid:S1226R"MIntroduce a new variable instead of reusing the parameter "timeOutInSeconds".(»ëžÕýÿÿÿÿ
+jsquid:S1226"MIntroduce a new variable instead of reusing the parameter "timeOutInSeconds".(»ëžÕýÿÿÿÿ
+^squid:S2142Ï"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+Csquid:S1168Í"+Return an empty collection instead of null.(¥¹ï
+>squid:S16040"(Make this anonymous inner class a lambda(³‹‰{
+Esquid:S1604À"(Make this anonymous inner class a lambda(žÿ»•úÿÿÿÿ
+Esquid:S1604å"(Make this anonymous inner class a lambda(ÑÃ¡Àùÿÿÿÿ
+Esquid:S1604‚"(Make this anonymous inner class a lambda(ÑÃ¡Àùÿÿÿÿ
+Esquid:S1604£"(Make this anonymous inner class a lambda(ÑÃ¡Àùÿÿÿÿ
+Esquid:S1604À"(Make this anonymous inner class a lambda(ÑÃ¡Àùÿÿÿÿ
+<squid:S11819"%Catch Exception instead of Throwable.(½Ðð•
+osquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÕË½øÿÿÿÿ
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îœ…¤
+@squid:S1148­"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148®"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Ð"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+[squid:S1155Ä">Use isEmpty() to check whether the collection is empty or not.(×›··øÿÿÿÿ

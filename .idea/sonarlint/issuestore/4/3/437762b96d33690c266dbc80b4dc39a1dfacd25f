@@ -1,0 +1,25 @@
+
+Gsquid:UselessImportCheck8"Remove this duplicated import.(Ã•…Äúÿÿÿÿ
+;squid:S1148×"#Use a logger to log this exception.(Ç’Çê
+bsquid:S3027¸"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(²Ê¨°
+Bsquid:UselessImportCheck5"Remove this duplicated import.(Ğºšğ
+Gsquid:UselessImportCheckL"Remove this duplicated import.(âŞÔŞÿÿÿÿÿ
+^squid:S2142ú"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+osquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Äúºúúÿÿÿÿ
+|squid:S1149Ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(íú™§úÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheck„"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ù Ê×úÿÿÿÿ
+Bsquid:UselessImportCheckO"Remove this duplicated import.(–ÿÚŞ
+dsquid:S00112¬"FDefine and throw a dedicated exception instead of using a generic one.(¡Ø˜Şûÿÿÿÿ
+osquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(²€Ô¦úÿÿÿÿ
+Gsquid:UselessImportCheck4"Remove this duplicated import.(ñìÁ„üÿÿÿÿ
+>squid:S1075"&Remove this hard-coded path-delimiter.(ÍˆÅ«
+Bsquid:UselessImportCheck*"Remove this duplicated import.(˜‚º·
+Bsquid:UselessImportCheck:"Remove this duplicated import.(‘çÔû
+dsquid:S00112‹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Asquid:UselessImportCheckN"Remove this duplicated import.(íØ®6
+bsquid:CallToDeprecatedMethodì"9Remove this use of "StringEscapeUtils"; it is deprecated.(¸Ó
+Gsquid:UselessImportCheck-"Remove this duplicated import.(×íĞ‡şÿÿÿÿ
+^squid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(–‚Ï·
+Vsquid:S1118T":Add a private constructor to hide the implicit public one.(ô×İÕÿÿÿÿÿ
+Bsquid:UselessImportCheckK"Remove this duplicated import.(À¿Ù´
+Bsquid:UselessImportCheck6"Remove this duplicated import.(Œğ²»

@@ -1,0 +1,7 @@
+
+­%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¡¶Ü²ûÿÿÿÿ
+Hsquid:S1444",Make this "public static pTable" field final(¥¬…çûÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"RMake pTable a static final constant or non-public and provide accessors if needed.(¥¬…çûÿÿÿÿ
+Esquid:S1481")Remove this unused "Rows" local variable.(«‚ôòýÿÿÿÿ
+Tsquid:S1854"8Remove this useless assignment to local variable "Rows".(«‚ôòýÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‚ôòýÿÿÿÿ

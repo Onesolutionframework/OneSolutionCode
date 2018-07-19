@@ -1,0 +1,9 @@
+
+Wsquid:S3878²"8Remove this array creation and simply pass the elements.(ëÎµ½8ÿÕºñÈ,
+4squid:S2275²"Not enough arguments.(ëÎµ½8ÿÕºñÈ,
+fsquid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(ëÎµ½8ÿÕºñÈ,
+\squid:S3878¨"8Remove this array creation and simply pass the elements.(ÉµÈãüÿÿÿÿ8‡—áîÈ,
+squid:S11922"aUse already-defined constant 'GALEN_USER_HOME_CONFIG_NAME' instead of duplicating its value here.(÷×µ„8ı¹ñÈ,
+ksquid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(ˆ¶­úÿÿÿÿ8‡—áîÈ,
+ksquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(ÉµÈãüÿÿÿÿ8‡—áîÈ,
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ÿÕºñÈ,

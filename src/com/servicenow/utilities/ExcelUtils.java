@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
-
+/**
+ * Created by Muni on 5/4/17.
+ */
 public class ExcelUtils {
 
     private static XSSFSheet ExcelWSheet;
@@ -106,8 +108,6 @@ public class ExcelUtils {
         throw (e);
 
         }
-
-
     }
 
 
@@ -175,10 +175,7 @@ public class ExcelUtils {
                 int j = 1;
                 for ( j = startCol; j <= totalCols; j++, cj++) {
                     String stemp= getCellData1(i,j+1);
-                    if (stemp.equalsIgnoreCase("true"))
-                        blist=true;
-                    else
-                        blist=false;
+                    blist = stemp.equalsIgnoreCase("true");
                     tBools.add(blist);
                 }
                 String val1=getCellData1(i,j-1);

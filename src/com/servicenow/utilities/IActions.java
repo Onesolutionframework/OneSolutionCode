@@ -4,7 +4,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-
+/**
+ * Created by Muni on 5/4/17.
+ */
 public class IActions extends FuncLib {
     public IActions(WebDriver inputDriver) {
         super(inputDriver);
