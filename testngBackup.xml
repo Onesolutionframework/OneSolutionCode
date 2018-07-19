@@ -3,12 +3,12 @@
 
 <suite name="FrontEnd Suite" verbose="1">
     <listeners>
-        <listener class-name="com.servicenow.utilities.TestReport" />
+        <listener class-name="com.project.utilities.TestReport" />
     </listeners>
 
     <test name="FrontEnd Tests1">
         <classes>
-            <class name="com.servicenow.tests.CreateNewKBArticleFromIncidentTest" />
+            <class name="com.project.tests.CreateNewKBArticleFromIncidentTest" />
         </classes>
     </test>
 
