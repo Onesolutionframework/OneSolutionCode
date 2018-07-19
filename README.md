@@ -1,8 +1,9 @@
 "# CodeBase" 
 
-I followed an example in another repository and wrapped the directory structure within a pair of triple backticks (```):
+-Folder Structure-
 
 ```
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 AutoCodeBase
 │   README.md
 │   testng.xml
@@ -18,13 +19,14 @@ AutoCodeBase
 │       │   ...
 │
 └───Screenshots
-│   │   file021.txt
-│   │   file022.txt
+│   │
+│   │
 └───src
 │   │
 │   └───com.<<projectname>>
 |   │   │
 |   │   └───base
+|   │       │   PageInitialize.java
 |   │   │
 |   │   └───browser
 |   │   │
@@ -47,11 +49,11 @@ AutoCodeBase
 │
 │
 └───TestData
-│   │   file021.txt
-│   │   file022.txt
+│   │   file1.xlsx
+│   │   file2.xlsx
 │
 │
 └───TestReport
 │   │   Report.html
-
+_ _ _ _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ```
