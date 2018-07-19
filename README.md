@@ -119,6 +119,6 @@ _ _ _ _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   - Data Driven support
   - Object repository
   - Validations
-  - Custom reporting
+  - Extent reporting
   - Utilities
   - Logs
